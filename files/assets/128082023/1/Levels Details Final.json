@@ -22857,8 +22857,8 @@
     {
       "0": "Level3",
       "QuestionValue": 400,
-      "Question": "Кто из них женат?",
-      "Hint": "Проверь билеты.",
+      "Question": "Кто женат?",
+      "Hint": "Проверьте билеты.",
       "Compliment": "Мне тоже нужен отпуск с семьей.",
       "CharacterIndex": 0
     },
@@ -22937,7 +22937,7 @@
     {
       "0": "Level13",
       "QuestionValue": 395,
-      "Question": "кто бедно?",
+      "Question": "Кто беден?",
       "Hint": "Проверь их карманы.",
       "Compliment": "Для счастья денег мало.",
       "CharacterIndex": 2
