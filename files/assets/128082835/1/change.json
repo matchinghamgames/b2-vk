@@ -160,7 +160,8 @@
         "Ultimo Packet": "Ultimo Packet",
         "rate":"Rate It",
         "Lemon Tree":"This is a lemon tree",
-        "Apple Tree":"This is an apple tree"
+        "Apple Tree":"This is an apple tree",
+        "Continue" : "Continue"
       }
     },
     {
@@ -320,7 +321,8 @@
         "Ultimo Packet": "Ultimo Paket",
         "rate":"Rate It",
         "Lemon Tree":"Bu bir limon ağacı!",
-        "Apple Tree":"Bu bir elma ağacı!"
+        "Apple Tree":"Bu bir elma ağacı!",
+        "Continue" : "Devam etmek"
       }
     },
     {
@@ -480,7 +482,8 @@
         "Ultimo Packet": "الحزمة الممتازة",
         "rate":"Rate It",
         "Lemon Tree":"هذه شجرة ليمون!",
-        "Apple Tree":"هذه شجرة تفاح!"
+        "Apple Tree":"هذه شجرة تفاح!",
+        "Continue" : "يكمل"
       }
     },
     {
@@ -640,7 +643,8 @@
         "Ultimo Packet": "Toppakket",
         "rate":"Rate It",
         "Lemon Tree":"Dit is een citroenboom.",
-        "Apple Tree":"Dit is een appelboom."
+        "Apple Tree":"Dit is een appelboom.",
+        "Continue" : "Doorgaan"
       }
     },
     {
@@ -800,7 +804,8 @@
         "Ultimo Packet": "Ultimate Packet",
         "rate":"Rate It",
         "Lemon Tree":"Ito ay isang puno ng lemon!",
-        "Apple Tree":"Ito ay isang puno ng mansanas!"
+        "Apple Tree":"Ito ay isang puno ng mansanas!",
+        "Continue" : "Magpatuloy"
       }
     },
     {
@@ -960,7 +965,8 @@
         "Ultimo Packet": "Jeu Supérieur",
         "rate":"Rate It",
         "Lemon Tree":"Ceci est un arbre de citron!",
-        "Apple Tree":"Ceci est un pommier!"
+        "Apple Tree":"Ceci est un pommier!",
+        "Continue" : "Continuer"
       }
     },
     {
@@ -1120,7 +1126,8 @@
         "Ultimo Packet": "Ultimo-Paket",
         "rate":"Rate It",
         "Lemon Tree":"Das ist ein Zitronenbaum!",
-        "Apple Tree":"Das ist ein Apfelbaum!"
+        "Apple Tree":"Das ist ein Apfelbaum!",
+        "Continue" : "Weitermachen"
       }
     },
     {
@@ -1280,7 +1287,8 @@
         "Ultimo Packet": "Κορυφαίο πακέτο",
         "rate":"Rate It",
         "Lemon Tree":"Είναι λεμονιά!",
-        "Apple Tree":"Μηλιά είναι!"
+        "Apple Tree":"Μηλιά είναι!",
+        "Continue" : "Να συνεχίσει"
       }
     },
     {
@@ -1440,7 +1448,8 @@
         "Ultimo Packet": "חבילת אולטימו",
         "rate":"Rate It",
         "Lemon Tree":"זה עץ לימונים!",
-        "Apple Tree":"זה עץ תפוחים!"
+        "Apple Tree":"זה עץ תפוחים!",
+        "Continue" : "לְהַמשִׁיך"
       }
     },
     {
@@ -1600,7 +1609,8 @@
         "Ultimo Packet": "अल्टिमो पैक",
         "rate":"Rate It",
         "Lemon Tree":"यह नींबू का पेड़ है!",
-        "Apple Tree":"यह सेब का पेड़ है!"
+        "Apple Tree":"यह सेब का पेड़ है!",
+        "Continue" : "जारी रखना"
       }
     },
     {
@@ -1760,7 +1770,8 @@
         "Ultimo Packet": "Full extra csomag",
         "rate":"Rate It",
         "Lemon Tree":"Ez citromfa!",
-        "Apple Tree":"Ez almafa!"
+        "Apple Tree":"Ez almafa!",
+        "Continue" : "Folytatni"
       }
     },
     {
@@ -1920,7 +1931,8 @@
         "Ultimo Packet": "Pacchetto definitivo",
         "rate":"Rate It",
         "Lemon Tree":"È un limone!",
-        "Apple Tree":"È un melo!"
+        "Apple Tree":"È un melo!",
+        "Continue" : "Continua"
       }
     },
     {
@@ -2080,7 +2092,8 @@
         "Ultimo Packet": "究極パック",
         "rate":"Rate It",
         "Lemon Tree":"これはレモンの木だよ！",
-        "Apple Tree":"これはリンゴの木ね！"
+        "Apple Tree":"これはリンゴの木ね！",
+        "Continue" : "続く"
       }
     },
     {
@@ -2240,7 +2253,8 @@
         "Ultimo Packet": "울티모 팩",
         "rate":"Rate It",
         "Lemon Tree":"이건 레몬나무야!",
-        "Apple Tree":"이건 사과나무야!"
+        "Apple Tree":"이건 사과나무야!",
+        "Continue" : "계속하다"
       }
     },
     {
@@ -2400,7 +2414,8 @@
         "Ultimo Packet": "Pek Muktamad",
         "rate":"Rate It",
         "Lemon Tree":"Ini pokok lemon!",
-        "Apple Tree":"Ini pokok epal!"
+        "Apple Tree":"Ini pokok epal!",
+        "Continue" : "teruskan"
       }
     },
     {
@@ -2560,7 +2575,8 @@
         "Ultimo Packet": "Pakiet Ultimo",
         "rate":"Rate It",
         "Lemon Tree":"To drzewko cytrynowe!",
-        "Apple Tree":"To jabłoń!"
+        "Apple Tree":"To jabłoń!",
+        "Continue" : "Kontynuować"
       }
     },
     {
@@ -2720,7 +2736,8 @@
         "Ultimo Packet": "Pacote Absoluto",
         "rate":"Rate It",
         "Lemon Tree":"Isso é um limoeiro!",
-        "Apple Tree":"Isso é uma macieira!"
+        "Apple Tree":"Isso é uma macieira!",
+        "Continue" : "Continuar"
       }
     },
     {
@@ -2880,7 +2897,8 @@
         "Ultimo Packet": "Pachetul ultimo",
         "rate":"Rate It",
         "Lemon Tree":"Acesta este un lămâi!",
-        "Apple Tree":"Acesta este un măr!"
+        "Apple Tree":"Acesta este un măr!",
+        "Continue" : "Continua"
       }
     },
     {
@@ -3040,7 +3058,8 @@
         "Ultimo Packet": "Полный пакет",
         "rate":"Оценить",
         "Lemon Tree":"Это лимонное дерево!",
-        "Apple Tree":"Это яблоня!"
+        "Apple Tree":"Это яблоня!",
+        "Continue" : "Продолжить"
       }
     },
     {
@@ -3200,7 +3219,8 @@
         "Ultimo Packet": "Ultimo Packet",
         "rate":"Rate It",
         "Lemon Tree":"Ovo je drvo limuna!",
-        "Apple Tree":"Ovo je drvo jabuke!"
+        "Apple Tree":"Ovo je drvo jabuke!",
+        "Continue" : "Настави"
       }
     },
     {
@@ -3360,7 +3380,8 @@
         "Ultimo Packet": "Pack definitivo",
         "rate":"Rate It",
         "Lemon Tree":"¡Es un limonero!",
-        "Apple Tree":"¡Es un manzano!"
+        "Apple Tree":"¡Es un manzano!",
+        "Continue" : "Continuar"
       }
     },
     {
@@ -3520,7 +3541,8 @@
         "Ultimo Packet": "終極包",
         "rate":"Rate It",
         "Lemon Tree":"這是檸檬樹！",
-        "Apple Tree":"這是蘋果樹！"
+        "Apple Tree":"這是蘋果樹！",
+        "Continue" : "继续"
       }
     },
     {
@@ -3680,7 +3702,8 @@
         "Ultimo Packet": "แพ็กครบเครื่อง",
         "rate":"Rate It",
         "Lemon Tree":"นี่ต้นมะนาว!",
-        "Apple Tree":"นี่ต้นแอปเปิ้ล!"
+        "Apple Tree":"นี่ต้นแอปเปิ้ล!",
+        "Continue" : "ดำเนินการต่อ"
       }
     },
     {
@@ -3840,7 +3863,8 @@
         "Ultimo Packet": "الٹیمو پیکٹ",
         "rate":"Rate It",
         "Lemon Tree":"یہ لیموں کا درخت ہے!",
-        "Apple Tree":"یہ سیب کا درخت ہے!"
+        "Apple Tree":"یہ سیب کا درخت ہے!",
+        "Continue" : "جاری رہے"
       }
     },
     {
@@ -4000,7 +4024,8 @@
         "Ultimo Packet": "Gói Tuyệt đỉnh",
         "rate":"Rate It",
         "Lemon Tree":"Đây là một cây chanh!",
-        "Apple Tree":"Đây là một cây táo!"
+        "Apple Tree":"Đây là một cây táo!",
+        "Continue" : "Tiếp tục"
       }
     },
     {
@@ -4160,7 +4185,8 @@
         "Ultimo Packet": "Paket Ultima",
         "rate":"Rate It",
         "Lemon Tree":"Ini pohon lemon!",
-        "Apple Tree":"Ini pohon apel!"
+        "Apple Tree":"Ini pohon apel!",
+        "Continue" : "Melanjutkan"
       }
     }
   ]

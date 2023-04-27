@@ -137,22 +137,6 @@
       "CharacterIndex": 3
     },
     {
-      "0": "Level18",
-      "QuestionValue": 621,
-      "Question": "Which one is spiderman?",
-      "Hint": "Use the spider.",
-      "Compliment": "I always hoped that a bug would bite me and give me special powers. Brian, your friendly neighbourhood hero.",
-      "CharacterIndex": 3
-    },
-    {
-      "0": "Level19",
-      "QuestionValue": 632,
-      "Question": "Who is greedy?",
-      "Hint": "Hover the money over their eyes and see what happens!",
-      "Compliment": "Money, money, money\n Must be funny\n In the rich man's world.",
-      "CharacterIndex": 3
-    },
-    {
       "0": "Level20",
       "QuestionValue": 344,
       "Question": "Who is the Child?",
@@ -177,14 +161,6 @@
       "CharacterIndex": 4
     },
     {
-      "0": "Level23",
-      "QuestionValue": 400,
-      "Question": "Who is married?",
-      "Hint": "Check the tickets.",
-      "Compliment": "I need a holiday with my family too.",
-      "CharacterIndex": 4
-    },
-    {
       "0": "Level24",
       "QuestionValue": 617,
       "Question": "Which one is mom?",
@@ -206,14 +182,6 @@
       "Question": "Who is lying?",
       "Hint": "Looking at family photos may be help you.",
       "Compliment": "I lie to myself all the time. But I never believe me. :)",
-      "CharacterIndex": 5
-    },
-    {
-      "0": "Level27",
-      "QuestionValue": 403,
-      "Question": "Who is lying?",
-      "Hint": "Try to cut it in half.",
-      "Compliment": "Chocolate croissant always get me hungry.",
       "CharacterIndex": 5
     },
     {
@@ -517,7 +485,7 @@
       "QuestionValue": 287,
       "Question": "Save snow-white!",
       "Hint": "Apple looks so delicious. Make the witch taste it too!",
-      "Compliment": "I asked Magic Mirror on the wall:\nWho is the fairest one of all? \nIt replied: the one; Playing with the Brian!",
+      "Compliment": "I asked Magic Mirror on the wall:\n Who is the fairest one of all? \n It replied: the one; Playing with the Brian!",
       "CharacterIndex": 12
     },
     {
@@ -1069,7 +1037,7 @@
       "QuestionValue": 636,
       "Question": "Who is the fake Michael Jackson?",
       "Hint": "Tap on your screen",
-      "Compliment": "Annie, are you okay?So, Annie are you okay?\nAre you okay, Annie?",
+      "Compliment": "Annie, are you okay?So, Annie are you okay?\n Are you okay, Annie?",
       "CharacterIndex": 26
     },
     {
@@ -1339,22 +1307,6 @@
       "CharacterIndex": 3
     },
     {
-      "0": "Level18",
-      "QuestionValue": 621,
-      "Question": "Örümcek adam hangisi?",
-      "Hint": "Örümceği kullan.",
-      "Compliment": "Hep bir böceğin beni ısırıp bana özel güçler vereceğini umardım. Brian, arkadaş canlısı mahalle kahramanın.",
-      "CharacterIndex": 3
-    },
-    {
-      "0": "Level19",
-      "QuestionValue": 632,
-      "Question": "Hangisi açgözlü?",
-      "Hint": "Parayı gözlerinin üzerine getirin ve ne olduğunu görün!",
-      "Compliment": "Para para para \n Komik olmalı \n Zengin adamın dünyasında.",
-      "CharacterIndex": 3
-    },
-    {
       "0": "Level20",
       "QuestionValue": 344,
       "Question": "Bu çiftin çocukları hangisi?",
@@ -1379,14 +1331,6 @@
       "CharacterIndex": 4
     },
     {
-      "0": "Level23",
-      "QuestionValue": 400,
-      "Question": "Evli olan hangisi?",
-      "Hint": "Biletleri kontrol edin.",
-      "Compliment": "Benim de ailemle tatile çıkmaya ihtiyacım var.",
-      "CharacterIndex": 4
-    },
-    {
       "0": "Level24",
       "QuestionValue": 617,
       "Question": "Anne olan hangisi?",
@@ -1408,14 +1352,6 @@
       "Question": "Kim yalan söylüyor?",
       "Hint": "Aile fotoğraflarına bakmak sana yardımcı olabilir.",
       "Compliment": "Kendime daima yalan söylerim. Ama kendime hiç inanmam. :)",
-      "CharacterIndex": 5
-    },
-    {
-      "0": "Level27",
-      "QuestionValue": 403,
-      "Question": "Kim yalan söylüyor?",
-      "Hint": "Ortadan ikiye kesmeye çalış.",
-      "Compliment": "Çikolatalı kruvasan görünce karnım hemen zil çalar.",
       "CharacterIndex": 5
     },
     {
@@ -2541,22 +2477,6 @@
       "CharacterIndex": 3
     },
     {
-      "0": "Level18",
-      "QuestionValue": 621,
-      "Question": "أيهم هو الرجل العنكبوت ؟",
-      "Hint": "استخدم العنكبوت",
-      "Compliment": "لطالما رغبت أن تلسعني حشره و أحصل على قوى خارقة. برين، جيرانك اللطيفين.",
-      "CharacterIndex": 3
-    },
-    {
-      "0": "Level19",
-      "QuestionValue": 632,
-      "Question": "من هو الجشع؟",
-      "Hint": "خذ نقوداً من الطاولة و مررها أمام أعينهم.",
-      "Compliment": "المال ، المال ، المال يجب أن يكون أمراً مضحكاً. في عالم الأغنياء.",
-      "CharacterIndex": 3
-    },
-    {
       "0": "Level20",
       "QuestionValue": 344,
       "Question": "من هو طفلهم؟",
@@ -2581,14 +2501,6 @@
       "CharacterIndex": 4
     },
     {
-      "0": "Level23",
-      "QuestionValue": 400,
-      "Question": "من المتزوج؟",
-      "Hint": "تفقد التذاكر.",
-      "Compliment": "أحتاج إلى عطلة مع عائلتي أيضاً.",
-      "CharacterIndex": 4
-    },
-    {
       "0": "Level24",
       "QuestionValue": 617,
       "Question": "أيهن هي الأم؟",
@@ -2610,14 +2522,6 @@
       "Question": "من الذي يكذب؟",
       "Hint": "النظر إلى صور العائلة قد يساعدك.",
       "Compliment": "أنا أكذب على نفسي طوال الوقت. لكنني لا أصدقني. :)",
-      "CharacterIndex": 5
-    },
-    {
-      "0": "Level27",
-      "QuestionValue": 403,
-      "Question": "من الذي يكذب؟",
-      "Hint": "حاول القطع إلى نصفين.",
-      "Compliment": "كروسان الشوكولا دائماً يجعلني جائعاً.",
       "CharacterIndex": 5
     },
     {
@@ -3743,22 +3647,6 @@
       "CharacterIndex": 3
     },
     {
-      "0": "Level18",
-      "QuestionValue": 621,
-      "Question": "Wie is Spiderman?",
-      "Hint": "Gebruik de spin.",
-      "Compliment": "Ik hoopte altijd dat een insect me zou prikken en mij speciale krachten zou geven. Brian, je vriendelijke buurheld.",
-      "CharacterIndex": 3
-    },
-    {
-      "0": "Level19",
-      "QuestionValue": 632,
-      "Question": "Wie is er hebberig?",
-      "Hint": "Pak het geld van de tafel en hou het voor hun ogen.",
-      "Compliment": "Money, money, money \\n Must be funny. \\n In the rich man's world.'",
-      "CharacterIndex": 3
-    },
-    {
       "0": "Level20",
       "QuestionValue": 344,
       "Question": "Wie is hun kind?",
@@ -3783,14 +3671,6 @@
       "CharacterIndex": 4
     },
     {
-      "0": "Level23",
-      "QuestionValue": 400,
-      "Question": "Wie is getrouwd?",
-      "Hint": "Controleer de tickets.",
-      "Compliment": "Ik ben toe aan een vakantie met mijn gezin.",
-      "CharacterIndex": 4
-    },
-    {
       "0": "Level24",
       "QuestionValue": 617,
       "Question": "Wie is moeder?",
@@ -3812,14 +3692,6 @@
       "Question": "Wie liegt er?",
       "Hint": "Bekijk de familiefoto's maar eens.",
       "Compliment": "Ik vertel mezelf constant leugens, maar heb ze nooit geloofd. :)",
-      "CharacterIndex": 5
-    },
-    {
-      "0": "Level27",
-      "QuestionValue": 403,
-      "Question": "Wie liegt er?",
-      "Hint": "Snij hem in tweeën.",
-      "Compliment": "Ik krijg altijd trek van chocoladecroissants.",
       "CharacterIndex": 5
     },
     {
@@ -4123,7 +3995,7 @@
       "QuestionValue": 287,
       "Question": "Red Sneeuwwitje.",
       "Hint": "Die appel ziet er heerlijk uit. Zorg dat de heks ook een hap neemt.",
-      "Compliment": "Spiegeltje, spiegeltje aan de wand.\\n Wie is de schoonste in het land?\\nHet antwoord?\\n Degene die met Brian speelt!",
+      "Compliment": "Spiegeltje, spiegeltje aan de wand.\n Wie is de schoonste in het land?\n Het antwoord?\n Degene die met Brian speelt!",
       "CharacterIndex": 12
     },
     {
@@ -4227,7 +4099,7 @@
       "QuestionValue": 632,
       "Question": "Wie is er hebberig?",
       "Hint": "Pak het geld van de tafel en hou het voor hun ogen.",
-      "Compliment": "Money, money, money \\n Must be funny. \\n In the rich man's world.'",
+      "Compliment": "Money, money, money \n Must be funny. \n In the rich man's world.'",
       "CharacterIndex": 15
     },
     {
@@ -4675,7 +4547,7 @@
       "QuestionValue": 636,
       "Question": "Wie is de nep-Michael Jackson?",
       "Hint": "Kantel het scherm.",
-      "Compliment": "Annie, are you okay? \\n So, Annie are you okay? \\n Are you okay, Annie?'",
+      "Compliment": "Annie, are you okay? \n So, Annie are you okay? \n Are you okay, Annie?'",
       "CharacterIndex": 26
     },
     {
@@ -4945,22 +4817,6 @@
       "CharacterIndex": 3
     },
     {
-      "0": "Level18",
-      "QuestionValue": 621,
-      "Question": "Alin si spiderman?",
-      "Hint": "Gamitin ang gagamba.",
-      "Compliment": "Palagi akong umaasa na may isang insekto na kakagat sa akin at bibigyan ako ng mga espesyal na kapangyarihan. Brian, ang iyong friendly neighbourhood hero.",
-      "CharacterIndex": 3
-    },
-    {
-      "0": "Level19",
-      "QuestionValue": 632,
-      "Question": "Sino ang sakim?",
-      "Hint": "Kuhanin ng pera mula sa mesa at ipasa ang mga ito nang nakikita ng kanilang mga mata.",
-      "Compliment": "Pera, pera, pera \\n Nakakatawa sigurado. \\n Sa mundo ng mayaman.",
-      "CharacterIndex": 3
-    },
-    {
       "0": "Level20",
       "QuestionValue": 344,
       "Question": "Sino ang kanilang anak?",
@@ -4985,14 +4841,6 @@
       "CharacterIndex": 4
     },
     {
-      "0": "Level23",
-      "QuestionValue": 400,
-      "Question": "Sino ang kasal na?",
-      "Hint": "Suriin ang mga tiket.",
-      "Compliment": "Kailangan ko rin ng isang holiday kasama ang aking pamilya.",
-      "CharacterIndex": 4
-    },
-    {
       "0": "Level24",
       "QuestionValue": 617,
       "Question": "Alin si inay?",
@@ -5014,14 +4862,6 @@
       "Question": "Sino ang nagsisinungaling?",
       "Hint": "Ang pagtingin sa mga larawan ng pamilya ay maaaring makatulong sa iyo.",
       "Compliment": "Nagsisinungaling ako sa sarili ko palagi. Pero hindi ako naniwala sa akin. :)",
-      "CharacterIndex": 5
-    },
-    {
-      "0": "Level27",
-      "QuestionValue": 403,
-      "Question": "Sino ang nagsisinungaling?",
-      "Hint": "Subukang hatiin ito sa kalahati.",
-      "Compliment": "Palaging akong nagugutom sa tsokolateng crossant.",
       "CharacterIndex": 5
     },
     {
@@ -5325,7 +5165,7 @@
       "QuestionValue": 287,
       "Question": "Iligtas si Snow White!",
       "Hint": "Mukhang napakasarap ng mansanas. Ipatikim din sa mangkukulam!",
-      "Compliment": "Tinanong ko ang Mahiwagang Salamin sa dingding:\\n Sino ang pinakamaganda sa lahat?\\nSumagot ito: ang taong;\\n Nakikipagaro kay Brian!",
+      "Compliment": "Tinanong ko ang Mahiwagang Salamin sa dingding:\n Sino ang pinakamaganda sa lahat?\n Sumagot ito: ang taong;\n Nakikipagaro kay Brian!",
       "CharacterIndex": 12
     },
     {
@@ -5429,7 +5269,7 @@
       "QuestionValue": 632,
       "Question": "Sino ang sakim?",
       "Hint": "Kuhanin ng pera mula sa mesa at ipasa ang mga ito nang nakikita ng kanilang mga mata.",
-      "Compliment": "Pera, pera, pera \\n Nakakatawa sigurado. \\n Sa mundo ng mayaman.",
+      "Compliment": "Pera, pera, pera \n Nakakatawa sigurado. \n Sa mundo ng mayaman.",
       "CharacterIndex": 15
     },
     {
@@ -5877,7 +5717,7 @@
       "QuestionValue": 636,
       "Question": "Sino ang pekeng Michael Jackson?",
       "Hint": "Subukang ikiling ang screen.",
-      "Compliment": "Annie, okay ka lang ba? \\n Kung gayon, Annie okay ka lang? \\n Okay ka lang, Annie?",
+      "Compliment": "Annie, okay ka lang ba? \n Kung gayon, Annie okay ka lang? \n Okay ka lang, Annie?",
       "CharacterIndex": 26
     },
     {
@@ -6147,22 +5987,6 @@
       "CharacterIndex": 3
     },
     {
-      "0": "Level18",
-      "QuestionValue": 621,
-      "Question": "Lequel est spiderman ?",
-      "Hint": "Utilise l’araignée.",
-      "Compliment": "J’ai toujours espéré qu’un insecte me mordrait et me donnerait des pouvoirs spéciaux. Brian, ton voisinage amical.",
-      "CharacterIndex": 3
-    },
-    {
-      "0": "Level19",
-      "QuestionValue": 632,
-      "Question": "Lequel est gourmand?",
-      "Hint": "Prends l’argent sur leurs yeux et voir ce qui se passe!",
-      "Compliment": "L’argent, l’argent, l’argent doit être amusant dans le monde des riches.",
-      "CharacterIndex": 3
-    },
-    {
       "0": "Level20",
       "QuestionValue": 344,
       "Question": "Qui est leur enfant ?",
@@ -6187,14 +6011,6 @@
       "CharacterIndex": 4
     },
     {
-      "0": "Level23",
-      "QuestionValue": 400,
-      "Question": "Qui est marié ?",
-      "Hint": "Vérifie les billets.",
-      "Compliment": "J’ai besoin de vacances avec ma famille aussi.",
-      "CharacterIndex": 4
-    },
-    {
       "0": "Level24",
       "QuestionValue": 617,
       "Question": "Lequel est maman ?",
@@ -6216,14 +6032,6 @@
       "Question": "Qui ment ?",
       "Hint": "Regarder des photos de famille peut t'aider.",
       "Compliment": "Je me mens tout le temps. Mais je ne m’ai jamais cru. :)",
-      "CharacterIndex": 5
-    },
-    {
-      "0": "Level27",
-      "QuestionValue": 403,
-      "Question": "Qui ment ?",
-      "Hint": "Essaie de le couper en deux.",
-      "Compliment": "Le croissant au chocolat me donne toujours faim.",
       "CharacterIndex": 5
     },
     {
@@ -6527,7 +6335,7 @@
       "QuestionValue": 287,
       "Question": "Sauve Blanche-Neige!",
       "Hint": "La pomme a l'air si délicieuse. Fais goûter à la sorcière aussi!\"",
-      "Compliment": "J'ai demandé à Mirroir Magique sur le mur:\\n Qui est le plus beau de tous?\\nlt a répondu: celui;\\n Jouer avec Brian!",
+      "Compliment": "J'ai demandé à Mirroir Magique sur le mur:\n Qui est le plus beau de tous?\n lt a répondu: celui;\n Jouer avec Brian!",
       "CharacterIndex": 12
     },
     {
@@ -7257,7 +7065,7 @@
       "QuestionValue": 318,
       "Question": "Wer lügt?",
       "Hint": "Wie schön ihr Ring ist!",
-      "Compliment": "Gibt es so etwas wie einen Alumni-Ring? \\n Ich habe noch nie davon gehört! Das hab ich mir gerade ausgedacht, haha ...",
+      "Compliment": "Gibt es so etwas wie einen Alumni-Ring? \n Ich habe noch nie davon gehört! Das hab ich mir gerade ausgedacht, haha ...",
       "CharacterIndex": 1
     },
     {
@@ -7265,7 +7073,7 @@
       "QuestionValue": 319,
       "Question": "Hilf ihr bei ihrer Wahl?",
       "Hint": "Überprüfe den Inhalt des Handys von jedem Jungen!",
-      "Compliment": "Selten findet man einen solchen Typen, der keine Dating-App auf seinem Handy installiert hat. \\n Würdest du lieber Dating-Apps oder Ess-Apps auf dem Handy deines Freundes bevorzugen?",
+      "Compliment": "Selten findet man einen solchen Typen, der keine Dating-App auf seinem Handy installiert hat. \n Würdest du lieber Dating-Apps oder Ess-Apps auf dem Handy deines Freundes bevorzugen?",
       "CharacterIndex": 1
     },
     {
@@ -7289,7 +7097,7 @@
       "QuestionValue": 398,
       "Question": "Wer ist verheiratet?",
       "Hint": "Prüfe ihre Handys.",
-      "Compliment": "Während deine Mutter dir dein Leben schenkt, \\n gibt dir deine Schwiegermutter ein Teil ihres eigenen Lebens.",
+      "Compliment": "Während deine Mutter dir dein Leben schenkt, \n gibt dir deine Schwiegermutter ein Teil ihres eigenen Lebens.",
       "CharacterIndex": 1
     },
     {
@@ -7349,22 +7157,6 @@
       "CharacterIndex": 3
     },
     {
-      "0": "Level18",
-      "QuestionValue": 621,
-      "Question": "Welcher ist Spiderman?",
-      "Hint": "Nutze die Spinne.",
-      "Compliment": "Ich habe immer gehofft, dass mich ein Käfer beißt und mir Superkräfte verleihen würde. \\n Brian, deine freundliche Nachbarschaft.",
-      "CharacterIndex": 3
-    },
-    {
-      "0": "Level19",
-      "QuestionValue": 632,
-      "Question": "Wer ist gierig?",
-      "Hint": "Bewege das Geld über ihre Augen und sieh zu, was passiert!",
-      "Compliment": "Money, money, money \\n Must be funny \\n In the rich man's world.",
-      "CharacterIndex": 3
-    },
-    {
       "0": "Level20",
       "QuestionValue": 344,
       "Question": "Wo ist ihr Kind?",
@@ -7386,14 +7178,6 @@
       "Question": "Wer ist krank?",
       "Hint": "Sieh dir die Masken genau an.",
       "Compliment": "Ich träume von einer Welt ohne Masken.",
-      "CharacterIndex": 4
-    },
-    {
-      "0": "Level23",
-      "QuestionValue": 400,
-      "Question": "Wer ist verheiratet?",
-      "Hint": "Prüfe ihre Tickets.",
-      "Compliment": "Ich brauche auch einen Urlaub mit meiner Familie.",
       "CharacterIndex": 4
     },
     {
@@ -7421,14 +7205,6 @@
       "CharacterIndex": 5
     },
     {
-      "0": "Level27",
-      "QuestionValue": 403,
-      "Question": "Wer lügt?",
-      "Hint": "Versuche, es zu halbieren.",
-      "Compliment": "Wenn ich Schoko-Croissants sehe, werde ich sofort hungrig.",
-      "CharacterIndex": 5
-    },
-    {
       "0": "Level28",
       "QuestionValue": 643,
       "Question": "Welche Toilette funktioniert nicht richtig?",
@@ -7449,7 +7225,7 @@
       "QuestionValue": 445,
       "Question": "Finde den richtigen Schrank.",
       "Hint": "Jedes Schloss hat einen Schlüssel.",
-      "Compliment": "Ich schließe meinen Schrank in der Schule nie ab. \\n Einen Schlüssel nicht zu verlieren, ist für mich eine ernste Verantwortung.",
+      "Compliment": "Ich schließe meinen Schrank in der Schule nie ab. \n Einen Schlüssel nicht zu verlieren, ist für mich eine ernste Verantwortung.",
       "CharacterIndex": 5
     },
     {
@@ -7473,7 +7249,7 @@
       "QuestionValue": 730,
       "Question": "Hilf ihm zu erkennen, was nicht real ist.",
       "Hint": "Nutze die Spiegel, um die Realität zu sehen.",
-      "Compliment": "Hattest du jemals einen Traum, bei dem du dir so sicher warst, dass er wahr ist? \\n Was wäre, wenn du aus diesem Traum nicht aufwachen könntest?",
+      "Compliment": "Hattest du jemals einen Traum, bei dem du dir so sicher warst, dass er wahr ist? \n Was wäre, wenn du aus diesem Traum nicht aufwachen könntest?",
       "CharacterIndex": 6
     },
     {
@@ -7481,7 +7257,7 @@
       "QuestionValue": 247,
       "Question": "Finde den Knochen!",
       "Hint": "Katzen lieben es, mit Garnknäueln zu spielen, aber was hat der Knochen da verloren?",
-      "Compliment": "Das Lieblingsspielzeug einer Katze ist das Garnknäuel, \\n also was macht ein Knochen da? Auch Caramel liebt sie. Du wirst diese Information brauchen ;)",
+      "Compliment": "Das Lieblingsspielzeug einer Katze ist das Garnknäuel, \n also was macht ein Knochen da? Auch Caramel liebt sie. Du wirst diese Information brauchen ;)",
       "CharacterIndex": 6
     },
     {
@@ -7489,7 +7265,7 @@
       "QuestionValue": 748,
       "Question": "Wer ist eine echte Blondine?",
       "Hint": "Tippe auf ihre Handys, um ihre Kindheitsfotos zu sehen.",
-      "Compliment": "Ich möchte meine Haare färben. Oh, ich habe ja gar keine Haare zum Färben. \\n Nun, mit oder ohne Haare, ich bin auf jeden Fall gutaussehend :)",
+      "Compliment": "Ich möchte meine Haare färben. Oh, ich habe ja gar keine Haare zum Färben. \n Nun, mit oder ohne Haare, ich bin auf jeden Fall gutaussehend :)",
       "CharacterIndex": 6
     },
     {
@@ -7537,7 +7313,7 @@
       "QuestionValue": 426,
       "Question": "Wer ist seine Frau?",
       "Hint": "Prüfe die Poster an der Wand.",
-      "Compliment": "Schau sie dir an. Ich dachte, perfekte Paare gibt es nur in Büchern und Filmen, \\n aber das änderte sich, nachdem ich sie gesehen hatte.",
+      "Compliment": "Schau sie dir an. Ich dachte, perfekte Paare gibt es nur in Büchern und Filmen, \n aber das änderte sich, nachdem ich sie gesehen hatte.",
       "CharacterIndex": 8
     },
     {
@@ -7641,7 +7417,7 @@
       "QuestionValue": 421,
       "Question": "Wer ist der Vater?",
       "Hint": "Überprüfe ihre Handgelenke. Vielleicht findest du ein Tattoo.",
-      "Compliment": "Jeder Sohn nimmt die Worte und Taten seines Vaters als Beispiel, \\n aber nicht jeder Vater lässt sich den Namen seines Sohnes tätowieren.",
+      "Compliment": "Jeder Sohn nimmt die Worte und Taten seines Vaters als Beispiel, \n aber nicht jeder Vater lässt sich den Namen seines Sohnes tätowieren.",
       "CharacterIndex": 10
     },
     {
@@ -7665,7 +7441,7 @@
       "QuestionValue": 367,
       "Question": "Finde die Schachtel.",
       "Hint": "Es ist eine offene Schachtel! Prüfe sie unten links.",
-      "Compliment": "Hoffentlich hast du sie nicht geweckt! Sie ist eine schlafende Schönheit. \\n Ihr Name ist Ada! Übrigens, hast du Caramel im Zimmer gesehen?",
+      "Compliment": "Hoffentlich hast du sie nicht geweckt! Sie ist eine schlafende Schönheit. \n Ihr Name ist Ada! Übrigens, hast du Caramel im Zimmer gesehen?",
       "CharacterIndex": 11
     },
     {
@@ -7673,7 +7449,7 @@
       "QuestionValue": 325,
       "Question": "Wie viele Personen leben hier?",
       "Hint": "Zahnbürsten sind persönlich. Sorge dafür, dass du sie alle bekommst.",
-      "Compliment": "Wusstest du, dass deine Zähne einzigartig für dich sind, \\n genau wie dein Fingerabdruck. Einzigartig, genau wie du ;)",
+      "Compliment": "Wusstest du, dass deine Zähne einzigartig für dich sind, \n genau wie dein Fingerabdruck. Einzigartig, genau wie du ;)",
       "CharacterIndex": 11
     },
     {
@@ -7729,7 +7505,7 @@
       "QuestionValue": 287,
       "Question": "Rette Schneewittchen!",
       "Hint": "Der Apfel sieht so lecker aus. Lass die Hexe auch mal kosten!",
-      "Compliment": "Ich fragte den Zauberspiegel an der Wand: \\n Wer ist die Schönste im ganzen Land? \\n Er antwortete: Diejenige, \\n die mit Brian spielt!",
+      "Compliment": "Ich fragte den Zauberspiegel an der Wand: \n Wer ist die Schönste im ganzen Land? \n Er antwortete: Diejenige, \n die mit Brian spielt!",
       "CharacterIndex": 12
     },
     {
@@ -7833,7 +7609,7 @@
       "QuestionValue": 632,
       "Question": "Wer ist gierig?",
       "Hint": "Bewege das Geld über ihre Augen und sieh zu, was passiert!",
-      "Compliment": "Money, money, money \\n Must be funny \\n In the rich man's world.",
+      "Compliment": "Money, money, money \n Must be funny \n In the rich man's world.",
       "CharacterIndex": 15
     },
     {
@@ -7841,7 +7617,7 @@
       "QuestionValue": 662,
       "Question": "Welches ist die echte Sonnenblume?",
       "Hint": "Benutze die Sonne.",
-      "Compliment": "Wenn du dein Gesicht dem Sonnenschein zuwendest, \\n kannst du den Schatten nicht sehen. Das ist was Sonnenblumen tun.",
+      "Compliment": "Wenn du dein Gesicht dem Sonnenschein zuwendest, \n kannst du den Schatten nicht sehen. Das ist was Sonnenblumen tun.",
       "CharacterIndex": 15
     },
     {
@@ -7905,7 +7681,7 @@
       "QuestionValue": 279,
       "Question": "Wer lügt?",
       "Hint": "Es könnte ein Foto geben, das alles beweist.",
-      "Compliment": "Ich bin nicht verärgert, dass sie sie angelogen hat, \\n ich bin verärgert, dass sie ihr von nun an nicht mehr glauben kann.",
+      "Compliment": "Ich bin nicht verärgert, dass sie sie angelogen hat, \n ich bin verärgert, dass sie ihr von nun an nicht mehr glauben kann.",
       "CharacterIndex": 17
     },
     {
@@ -7913,7 +7689,7 @@
       "QuestionValue": 613,
       "Question": "Wer lügt?",
       "Hint": "Finde das fehlende Spielzeugstück.",
-      "Compliment": "Ich habe meine Spielsachen immer geteilt, \\n als ich klein war, bis auf eines: Nur ich kann meinen Teddybären anfassen.",
+      "Compliment": "Ich habe meine Spielsachen immer geteilt, \n als ich klein war, bis auf eines: Nur ich kann meinen Teddybären anfassen.",
       "CharacterIndex": 17
     },
     {
@@ -8025,7 +7801,7 @@
       "QuestionValue": 281,
       "Question": "Wer lügt?",
       "Hint": "Wozu dient der Ring? Ziehe ihn zum Abnehmen.",
-      "Compliment": "Der Ehering wird am linken Ringfinger getragen, \\n da dies der einzige Finger mit einer Vene ist, die mit dem Herzen verbunden ist. Stimmt das?",
+      "Compliment": "Der Ehering wird am linken Ringfinger getragen, \n da dies der einzige Finger mit einer Vene ist, die mit dem Herzen verbunden ist. Stimmt das?",
       "CharacterIndex": 20
     },
     {
@@ -8273,7 +8049,7 @@
       "QuestionValue": 633,
       "Question": "Wer ist der Rüpel?",
       "Hint": "Vergiss nicht, ihre Taschen zu prüfen.",
-      "Compliment": "Wenn Menschen versuchen, dich zu Fall zu bringen, \\n bedeutet das nur, dass du über ihnen stehst. Sei freundlich, kein Rüpel.",
+      "Compliment": "Wenn Menschen versuchen, dich zu Fall zu bringen, \n bedeutet das nur, dass du über ihnen stehst. Sei freundlich, kein Rüpel.",
       "CharacterIndex": 26
     },
     {
@@ -8281,7 +8057,7 @@
       "QuestionValue": 636,
       "Question": "Welcher ist der unechte Michael Jackson?",
       "Hint": "Versuche, den Bildschirm zu neigen.",
-      "Compliment": "Annie, are you okay? \\n So, Annie are you okay? \\n Are you okay, Annie?",
+      "Compliment": "Annie, are you okay? \n So, Annie are you okay? \n Are you okay, Annie?",
       "CharacterIndex": 26
     },
     {
@@ -8289,7 +8065,7 @@
       "QuestionValue": 614,
       "Question": "Wer lügt?",
       "Hint": "Finde das Tattoo.",
-      "Compliment": "Ich dachte immer, ich hätte ein Talent für Ballspiele, \\n aber ich verstehe nicht, warum mein High-School-Trainer mich zum Ringen ermutigt hat.",
+      "Compliment": "Ich dachte immer, ich hätte ein Talent für Ballspiele, \n aber ich verstehe nicht, warum mein High-School-Trainer mich zum Ringen ermutigt hat.",
       "CharacterIndex": 26
     },
     {
@@ -8321,7 +8097,7 @@
       "QuestionValue": 618,
       "Question": "Wer lügt?",
       "Hint": "Prüfe die Gangschaltung.",
-      "Compliment": "Es geht nicht darum, wie gut du als Fahrer bist. \\n Es geht um die 5 Sekunden, in denen man die Augen von der Straße nimmt. Riskiere es nicht.",
+      "Compliment": "Es geht nicht darum, wie gut du als Fahrer bist. \n Es geht um die 5 Sekunden, in denen man die Augen von der Straße nimmt. Riskiere es nicht.",
       "CharacterIndex": 27
     },
     {
@@ -8551,22 +8327,6 @@
       "CharacterIndex": 3
     },
     {
-      "0": "Level18",
-      "QuestionValue": 621,
-      "Question": "Ποιος είναι ο Σπάιντερμαν;",
-      "Hint": "Χρησιμοποίησε την αράχνη.",
-      "Compliment": "Πάντα ήλπιζα ότι θα με δαγκώσει κάποιο έντομο και θα μου δώσει υπερφυσικές δυνάμεις. Μπράιαν: ο ήρωας της γειτονιάς σας.",
-      "CharacterIndex": 3
-    },
-    {
-      "0": "Level19",
-      "QuestionValue": 632,
-      "Question": "Ποιος είναι άπληστος;",
-      "Hint": "Πάρε λεφτά από το τραπέζι και πέρασέ τα μπροστά από τα μάτια τους.",
-      "Compliment": "Τα λεφτά, τα λεφτά \\n Ποιος τ' ανακάλυψε \\n Τα λεφτά, τα λεφτά...",
-      "CharacterIndex": 3
-    },
-    {
       "0": "Level20",
       "QuestionValue": 344,
       "Question": "Ποιο είναι το παιδί τους;",
@@ -8591,14 +8351,6 @@
       "CharacterIndex": 4
     },
     {
-      "0": "Level23",
-      "QuestionValue": 400,
-      "Question": "Ποιος είναι παντρεμένος;",
-      "Hint": "Δες τα εισιτήρια.",
-      "Compliment": "Κι εγώ χρειάζομαι διακοπές με την οικογένειά μου.",
-      "CharacterIndex": 4
-    },
-    {
       "0": "Level24",
       "QuestionValue": 617,
       "Question": "Ποια είναι μαμά;",
@@ -8620,14 +8372,6 @@
       "Question": "Ποια λέει ψέματα;",
       "Hint": "Μια ματιά στις οικογενειακές φωτογραφίες μπορεί να σε βοηθήσει.",
       "Compliment": "Διαρκώς λέω ψέματα στον εαυτό μου. Ποτέ μου όμως δε με πίστεψα. :)",
-      "CharacterIndex": 5
-    },
-    {
-      "0": "Level27",
-      "QuestionValue": 403,
-      "Question": "Ποιος λέει ψέματα;",
-      "Hint": "Δοκίμασε να το κόψεις στη μέση.",
-      "Compliment": "Τα κρουασάν σοκολάτας πάντα μου ανοίγουν την όρεξη.",
       "CharacterIndex": 5
     },
     {
@@ -8931,7 +8675,7 @@
       "QuestionValue": 287,
       "Question": "Σώσε τη Χιονάτη!",
       "Hint": "Το μήλο φαίνεται πεντανόστιμο. Κάνε και τη μάγισσα να το δοκιμάσει!",
-      "Compliment": "Ρώτησα τον Μαγικό Καθρέφτη:\\n Πού βρίσκεται η περισσότερη ομορφιά;\\nΚι απάντησε: Στο άτομο\\n που παίζει με τον Μπράιαν!",
+      "Compliment": "Ρώτησα τον Μαγικό Καθρέφτη:\n Πού βρίσκεται η περισσότερη ομορφιά;\n Κι απάντησε: Στο άτομο\n που παίζει με τον Μπράιαν!",
       "CharacterIndex": 12
     },
     {
@@ -9035,7 +8779,7 @@
       "QuestionValue": 632,
       "Question": "Ποιος είναι άπληστος;",
       "Hint": "Πάρε λεφτά από το τραπέζι και πέρασέ τα μπροστά από τα μάτια τους.",
-      "Compliment": "Τα λεφτά, τα λεφτά \\n Ποιος τ' ανακάλυψε \\n Τα λεφτά, τα λεφτά...",
+      "Compliment": "Τα λεφτά, τα λεφτά \n Ποιος τ' ανακάλυψε \n Τα λεφτά, τα λεφτά...",
       "CharacterIndex": 15
     },
     {
@@ -9483,7 +9227,7 @@
       "QuestionValue": 636,
       "Question": "Ποιος είναι ο ψεύτικος Μάικλ Τζάκσον;",
       "Hint": "Δοκίμασε να ταρακουνήσεις την οθόνη.",
-      "Compliment": "Ντέρτι Νταϊάνα, νόου! \\n Ντέρτι Νταϊάνα, νόου! \\n Ντέρτι Νταϊάνα, νόου!",
+      "Compliment": "Ντέρτι Νταϊάνα, νόου! \n Ντέρτι Νταϊάνα, νόου! \n Ντέρτι Νταϊάνα, νόου!",
       "CharacterIndex": 26
     },
     {
@@ -9750,14 +9494,6 @@
       "Question": "מי משקר?",
       "Hint": "בדקו את סרגל החיים והכסף במשחק.",
       "Compliment": "אי אפשר לרמות את הרמאי. אני יכול להיות ערמומי לפעמים, אבל לא רמאי. :)",
-      "CharacterIndex": 3
-    },
-    {
-      "0": "Level18",
-      "QuestionValue": 621,
-      "Question": "מי מהם הוא ספיידרמן?",
-      "Hint": "השתמשו בעכביש.",
-      "Compliment": "תמיד קיוויתי שחרק ינשך אותי וייתן לי כוחות מיוחדים. בריאן, גיבור השכונה הידידותי שלכם.",
       "CharacterIndex": 3
     },
     {
@@ -10133,7 +9869,7 @@
       "QuestionValue": 287,
       "Question": "הצילו את שלגייה!",
       "Hint": "התפוח נראה כל כך טעים. גרמו למכשפה לטעום ממנו גם!",
-      "Compliment": "שאלתי את מראת הקסם שעל הקיר:\\n מי היפה בכל העיר?\\nהיא ענתה:\\n מי שמשחק עם בריאן!",
+      "Compliment": "שאלתי את מראת הקסם שעל הקיר:\n מי היפה בכל העיר?\n היא ענתה:\n מי שמשחק עם בריאן!",
       "CharacterIndex": 12
     },
     {
@@ -10685,7 +10421,7 @@
       "QuestionValue": 636,
       "Question": "מי מהם הוא מייקל ג'קסון המזויף?",
       "Hint": "נסו להטות את המסך.",
-      "Compliment": "אנני, את בסדר? \\  אז אנני את בסדר? \\n את בסדר, אנני?",
+      "Compliment": "אנני, את בסדר? \\  אז אנני את בסדר? \n את בסדר, אנני?",
       "CharacterIndex": 26
     },
     {
@@ -10955,22 +10691,6 @@
       "CharacterIndex": 3
     },
     {
-      "0": "Level18",
-      "QuestionValue": 621,
-      "Question": "कौन सा स्पाइडरमैन है?",
-      "Hint": "मकड़ी का प्रयोग करें।",
-      "Compliment": "मुझे हमेशा उम्मीद थी कि एक बग मुझे काटेगा और मुझे विशेष शक्तियां देगा। ब्रायन, आपके दोस्ताना पड़ोसी।",
-      "CharacterIndex": 3
-    },
-    {
-      "0": "Level19",
-      "QuestionValue": 632,
-      "Question": "कौन सा लालची है।",
-      "Hint": "टेबल से पैसे ले लें और उन्हें उनकी निगाहों के सामने से गुजारें।",
-      "Compliment": "पैसा, पैसा, पैसा मस्त मेरे जैसा। अमीर आदमी की दुनिया में।",
-      "CharacterIndex": 3
-    },
-    {
       "0": "Level20",
       "QuestionValue": 344,
       "Question": "उनका बच्चा कौन है?",
@@ -10995,14 +10715,6 @@
       "CharacterIndex": 4
     },
     {
-      "0": "Level23",
-      "QuestionValue": 400,
-      "Question": "कौन शादीशुदा है।",
-      "Hint": "टिकट चेक करें।",
-      "Compliment": "मुझे अपने परिवार के साथ छुट्टी भी चाहिए।",
-      "CharacterIndex": 4
-    },
-    {
       "0": "Level24",
       "QuestionValue": 617,
       "Question": "कौन सी मां है?",
@@ -11024,14 +10736,6 @@
       "Question": "झूठ कौन बोल रहा है?",
       "Hint": "पारिवारिक तस्वीरों को देखने से आपको मदद मिल सकती है।",
       "Compliment": "मैं हर समय अपने आप से झूठ बोलता हूँ। लेकिन मैं कभी खुद पर विश्वास नहीं करता। :)",
-      "CharacterIndex": 5
-    },
-    {
-      "0": "Level27",
-      "QuestionValue": 403,
-      "Question": "झूठ कौन बोल रहा है?",
-      "Hint": "इसे आधे में काटने की कोशिश करें।",
-      "Compliment": "चॉकलेट क्रॉज़ौं हमेशा मुझे भूखा कर देती है।",
       "CharacterIndex": 5
     },
     {
@@ -11335,7 +11039,7 @@
       "QuestionValue": 287,
       "Question": "स्नो व्हाइट को बचाएं!",
       "Hint": "सेब कितना स्वादिष्ट दिखता है। चुड़ैल को भी इसका स्वाद चखने दें!",
-      "Compliment": "मैंने दीवार पर जादुई शीशे से पूछा:\\nसबसे सुंदर कौन है?\\nइसने उत्तर दिया: वो जो;\\n ब्रायन के साथ खेल रहे है!",
+      "Compliment": "मैंने दीवार पर जादुई शीशे से पूछा:\nसबसे सुंदर कौन है?\nइसने उत्तर दिया: वो जो;\n ब्रायन के साथ खेल रहे है!",
       "CharacterIndex": 12
     },
     {
@@ -11887,7 +11591,7 @@
       "QuestionValue": 636,
       "Question": "इनमें नकली माइकल जैक्सन कौन सा है?",
       "Hint": "स्क्रीन को झुकाकर देखें।",
-      "Compliment": "एनी, क्या आप ठीक हैं?\\nतो, ऐनी क्या आप ठीक हैं?\\nक्या आप ठीक हैं, एनी?",
+      "Compliment": "एनी, क्या आप ठीक हैं?\nतो, ऐनी क्या आप ठीक हैं?\nक्या आप ठीक हैं, एनी?",
       "CharacterIndex": 26
     },
     {
@@ -12157,22 +11861,6 @@
       "CharacterIndex": 3
     },
     {
-      "0": "Level18",
-      "QuestionValue": 621,
-      "Question": "Melyik a Pókember?",
-      "Hint": "Hívd segítségül a pókot!",
-      "Compliment": "Mindig reméltem, hogy egyszer majd megcsíp valami, és szuperképességeim lesznek tőle. Én lennék Brian, a környék barátságos hőse.",
-      "CharacterIndex": 3
-    },
-    {
-      "0": "Level19",
-      "QuestionValue": 632,
-      "Question": "Melyikük kapzsi?",
-      "Hint": "Vegyél pénzt az asztalról, és add át nekik jól láthatóan!",
-      "Compliment": "A földgolyó a pénztől jár, a pénztől jár, a pénztől jár...",
-      "CharacterIndex": 3
-    },
-    {
       "0": "Level20",
       "QuestionValue": 344,
       "Question": "Melyik az ő gyerekük?",
@@ -12197,14 +11885,6 @@
       "CharacterIndex": 4
     },
     {
-      "0": "Level23",
-      "QuestionValue": 400,
-      "Question": "Melyikük házas?",
-      "Hint": "Nézd meg a jegyeket!",
-      "Compliment": "Rám is rám férne egy üdülés a családdal.",
-      "CharacterIndex": 4
-    },
-    {
       "0": "Level24",
       "QuestionValue": 617,
       "Question": "Melyikük az anya?",
@@ -12226,14 +11906,6 @@
       "Question": "Ki hazudik?",
       "Hint": "Segíthet, ha megnézed a családi fotókat!",
       "Compliment": "Én folyamatosan hazudok magamnak. De sohasem hiszem el. :)",
-      "CharacterIndex": 5
-    },
-    {
-      "0": "Level27",
-      "QuestionValue": 403,
-      "Question": "Ki hazudik?",
-      "Hint": "Próbáld félbevágni!",
-      "Compliment": "A csokis croissant-tól mindig megéhezem.",
       "CharacterIndex": 5
     },
     {
@@ -12537,7 +12209,7 @@
       "QuestionValue": 287,
       "Question": "Mentsd meg Hófehérkét!",
       "Hint": "Az alma ízletesnek látszik. Kóstoltasd meg a boszorkánnyal is!",
-      "Compliment": "Tükröm, tükröm, mondd meg nékem:\\n ki a legszebb a vidéken?\\nA legszebbnek az látszik,\\n aki Briannel játszik!",
+      "Compliment": "Tükröm, tükröm, mondd meg nékem:\n ki a legszebb a vidéken?\n A legszebbnek az látszik,\n aki Briannel játszik!",
       "CharacterIndex": 12
     },
     {
@@ -13359,22 +13031,6 @@
       "CharacterIndex": 3
     },
     {
-      "0": "Level18",
-      "QuestionValue": 621,
-      "Question": "Mana yang Spiderman?",
-      "Hint": "Gunakan laba-laba.",
-      "Compliment": "Aku berharap ada serangga yang menggigitku dan memberi kekuatan spesial. Brian, tetanggamu yang ramah.",
-      "CharacterIndex": 3
-    },
-    {
-      "0": "Level19",
-      "QuestionValue": 632,
-      "Question": "Siapa yang serakah?",
-      "Hint": "Arahkan uang ke depan mereka dan lihat apa yang terjadi!",
-      "Compliment": "Uang, uang, uang \\n Pasti menyenangkan \\n Di dunia pria kaya.",
-      "CharacterIndex": 3
-    },
-    {
       "0": "Level20",
       "QuestionValue": 344,
       "Question": "Siapa anak mereka?",
@@ -13399,14 +13055,6 @@
       "CharacterIndex": 4
     },
     {
-      "0": "Level23",
-      "QuestionValue": 400,
-      "Question": "Siapa yang sudah menikah?",
-      "Hint": "Periksa tiket.",
-      "Compliment": "Aku juga butuh liburan bersama keluargaku.",
-      "CharacterIndex": 4
-    },
-    {
       "0": "Level24",
       "QuestionValue": 617,
       "Question": "Mana ibunya?",
@@ -13428,14 +13076,6 @@
       "Question": "Siapa yang berbohong?",
       "Hint": "Melihat foto keluarga bisa membantumu.",
       "Compliment": "Aku selalu berbohong pada diriku sendiri. Tapi aku tak pernah percaya pada diriku. :)",
-      "CharacterIndex": 5
-    },
-    {
-      "0": "Level27",
-      "QuestionValue": 403,
-      "Question": "Siapa yang berbohong?",
-      "Hint": "Coba bagi dua.",
-      "Compliment": "Croissant cokelat selalu membuatku lapar.",
       "CharacterIndex": 5
     },
     {
@@ -13739,7 +13379,7 @@
       "QuestionValue": 287,
       "Question": "Selamatkan Putri Salju!",
       "Hint": "Apelnya terlihat lezat. Buat agar penyihir memakannya juga!",
-      "Compliment": "Aku tanya pada Cermin Ajaib di dinding:\\n Siapa yang paling cantik?\\nBalasannya: orang;\\n yang Bermain dengan Brian!",
+      "Compliment": "Aku tanya pada Cermin Ajaib di dinding:\n Siapa yang paling cantik?\n Balasannya: orang;\n yang Bermain dengan Brian!",
       "CharacterIndex": 12
     },
     {
@@ -13843,7 +13483,7 @@
       "QuestionValue": 632,
       "Question": "Siapa yang serakah?",
       "Hint": "Arahkan uang ke depan mereka dan lihat apa yang terjadi!",
-      "Compliment": "Uang, uang, uang \\n Pasti menyenangkan \\n Di dunia pria kaya.",
+      "Compliment": "Uang, uang, uang \n Pasti menyenangkan \n Di dunia pria kaya.",
       "CharacterIndex": 15
     },
     {
@@ -14291,7 +13931,7 @@
       "QuestionValue": 636,
       "Question": "Siapa Michael Jackson yang palsu?",
       "Hint": "Coba miringkan layar.",
-      "Compliment": "Annie, apa kau baik-baik saja? \\n Apa kau baik-baik saja? \\n Apa kau baik-baik saja, Annie?",
+      "Compliment": "Annie, apa kau baik-baik saja? \n Apa kau baik-baik saja? \n Apa kau baik-baik saja, Annie?",
       "CharacterIndex": 26
     },
     {
@@ -14561,22 +14201,6 @@
       "CharacterIndex": 3
     },
     {
-      "0": "Level18",
-      "QuestionValue": 621,
-      "Question": "Qual è l'Uomo Ragno?",
-      "Hint": "Usa il ragno.",
-      "Compliment": "Ho sempre sognato che un insetto mi mordesse, conferendomi superpoteri. Il vostro amichevole Brian di quartiere.",
-      "CharacterIndex": 3
-    },
-    {
-      "0": "Level19",
-      "QuestionValue": 632,
-      "Question": "Chi è quello avido?",
-      "Hint": "Prendi il denaro dal tavolo e passalo davanti ai loro occhi.",
-      "Compliment": "Soldi, soldi, soldi, \\n tanti soldi, \\n beati siano i soldi!",
-      "CharacterIndex": 3
-    },
-    {
       "0": "Level20",
       "QuestionValue": 344,
       "Question": "Qual è il loro figlio?",
@@ -14601,14 +14225,6 @@
       "CharacterIndex": 4
     },
     {
-      "0": "Level23",
-      "QuestionValue": 400,
-      "Question": "Chi è sposato?",
-      "Hint": "Controlla i biglietti.",
-      "Compliment": "Anche a me servirebbe una vacanza con la famiglia.",
-      "CharacterIndex": 4
-    },
-    {
       "0": "Level24",
       "QuestionValue": 617,
       "Question": "Chi è la mamma?",
@@ -14630,14 +14246,6 @@
       "Question": "Chi sta mentendo?",
       "Hint": "Guardare le foto di famiglia potrebbe aiutarti.",
       "Compliment": "Io mento a me stesso continuamente. Però non mi credo mai :)",
-      "CharacterIndex": 5
-    },
-    {
-      "0": "Level27",
-      "QuestionValue": 403,
-      "Question": "Chi sta mentendo?",
-      "Hint": "Prova a tagliarlo a metà.",
-      "Compliment": "I croissant al cioccolato mi fanno sempre venire fame.",
       "CharacterIndex": 5
     },
     {
@@ -14781,7 +14389,7 @@
       "QuestionValue": 431,
       "Question": "Chi è un vero medico?",
       "Hint": "È vietato fumare negli ospedali.",
-      "Compliment": "Una mela al giorno toglie il medico di torno.\\nBasta avere una buona mira.",
+      "Compliment": "Una mela al giorno toglie il medico di torno.\n Basta avere una buona mira.",
       "CharacterIndex": 8
     },
     {
@@ -14941,7 +14549,7 @@
       "QuestionValue": 287,
       "Question": "Salva Biancaneve!",
       "Hint": "Quella mela sembra deliziosa. Falla assaggiare anche alla strega!",
-      "Compliment": "Ho chiesto allo specchio delle mie brame:\\n\"Chi è la più bella del reame?\"\\nHa risposto, riflettendo:\\n\"Chi con Brian sta giocando!\"",
+      "Compliment": "Ho chiesto allo specchio delle mie brame:\n \"Chi è la più bella del reame?\"\nHa risposto, riflettendo:\n\"Chi con Brian sta giocando!\"",
       "CharacterIndex": 12
     },
     {
@@ -15045,7 +14653,7 @@
       "QuestionValue": 632,
       "Question": "Chi è quello avido?",
       "Hint": "Prendi il denaro dal tavolo e passalo davanti ai loro occhi.",
-      "Compliment": "Soldi, soldi, soldi, \\n tanti soldi, \\n beati siano i soldi!",
+      "Compliment": "Soldi, soldi, soldi, \n tanti soldi, \n beati siano i soldi!",
       "CharacterIndex": 15
     },
     {
@@ -15763,22 +15371,6 @@
       "CharacterIndex": 3
     },
     {
-      "0": "Level18",
-      "QuestionValue": 621,
-      "Question": "誰がスパイダーマン？",
-      "Hint": "クモを使ってみて。",
-      "Compliment": "虫に嚙まれて特別な力が身につかないかな、と思っていたよ。 君の親愛なる隣人、ブライアンより。",
-      "CharacterIndex": 3
-    },
-    {
-      "0": "Level19",
-      "QuestionValue": 632,
-      "Question": "強欲なのはどっち？",
-      "Hint": "机の上のお金を彼らの目の前に持っていってみよう。",
-      "Compliment": "金、金、金、\\n きっと愉快に違いない。 \\n 金持ちの世界は。",
-      "CharacterIndex": 3
-    },
-    {
       "0": "Level20",
       "QuestionValue": 344,
       "Question": "三番目の子供は誰？",
@@ -15803,14 +15395,6 @@
       "CharacterIndex": 4
     },
     {
-      "0": "Level23",
-      "QuestionValue": 400,
-      "Question": "結婚しているのは誰？",
-      "Hint": "航空券を調べてみて。",
-      "Compliment": "家族と過ごす祝日も必要です。",
-      "CharacterIndex": 4
-    },
-    {
       "0": "Level24",
       "QuestionValue": 617,
       "Question": "どれが母鳥？",
@@ -15832,14 +15416,6 @@
       "Question": "嘘を言ってるのは誰？",
       "Hint": "家族写真を見てみれば、なにかわかるかも。",
       "Compliment": "ずっと自分に嘘をついている。 でも、一度も自分を信じたことがない。 :)",
-      "CharacterIndex": 5
-    },
-    {
-      "0": "Level27",
-      "QuestionValue": 403,
-      "Question": "嘘を言ってるのは誰？",
-      "Hint": "半分に切ってみよう。",
-      "Compliment": "チョコクロワッサンを見るとお腹が減ってしかたがない。",
       "CharacterIndex": 5
     },
     {
@@ -16143,7 +15719,7 @@
       "QuestionValue": 287,
       "Question": "白雪姫を救おう！",
       "Hint": "とっても美味しそうなリンゴ。 魔女も食べたくなる！",
-      "Compliment": "壁に掛った魔法の鏡に尋ねました：\\n この世で一番美しいのは誰？\\n鏡は答えました：\\nブライアンと遊んでいる人！",
+      "Compliment": "壁に掛った魔法の鏡に尋ねました：\n この世で一番美しいのは誰？\n鏡は答えました：\nブライアンと遊んでいる人！",
       "CharacterIndex": 12
     },
     {
@@ -16247,7 +15823,7 @@
       "QuestionValue": 632,
       "Question": "強欲なのはどっち？",
       "Hint": "机の上のお金を彼らの目の前に持っていってみよう。",
-      "Compliment": "金、金、金、\\n きっと愉快に違いない。 \\n 金持ちの世界は。",
+      "Compliment": "金、金、金、\n きっと愉快に違いない。 \n 金持ちの世界は。",
       "CharacterIndex": 15
     },
     {
@@ -16965,22 +16541,6 @@
       "CharacterIndex": 3
     },
     {
-      "0": "Level18",
-      "QuestionValue": 621,
-      "Question": "어느 쪽이 스파이더맨인가요?",
-      "Hint": "거미를 써보세요.",
-      "Compliment": "저도 벌레에게 물려 초능력이 생겼다면 얼마나 좋을까요? 멋진 이웃 브라이언이 되는 거죠.",
-      "CharacterIndex": 3
-    },
-    {
-      "0": "Level19",
-      "QuestionValue": 632,
-      "Question": "어느 쪽이 욕심쟁이인가요?",
-      "Hint": "테이블의 돈을 집어다가 사람들의 눈에 지나쳐보세요.",
-      "Compliment": "돈이란 \\n 재밌는 것인가 \\n 봐요. 부자들의 세상에선요.",
-      "CharacterIndex": 3
-    },
-    {
       "0": "Level20",
       "QuestionValue": 344,
       "Question": "누구의 아이일까요?",
@@ -17005,14 +16565,6 @@
       "CharacterIndex": 4
     },
     {
-      "0": "Level23",
-      "QuestionValue": 400,
-      "Question": "누가 결혼한 사람일까요?",
-      "Hint": "티켓을 확인해보세요.",
-      "Compliment": "저도 가족과 휴일을 보내야 해요.",
-      "CharacterIndex": 4
-    },
-    {
       "0": "Level24",
       "QuestionValue": 617,
       "Question": "엄마는 누굴까요?",
@@ -17034,14 +16586,6 @@
       "Question": "누가 거짓말하고 있나요?",
       "Hint": "가족사진이 도움될 것 같아요.",
       "Compliment": "전 항상 자신에게 거짓말하지만, 그걸 믿어본 적은 없어요. :)",
-      "CharacterIndex": 5
-    },
-    {
-      "0": "Level27",
-      "QuestionValue": 403,
-      "Question": "누가 거짓말하고 있나요?",
-      "Hint": "반으로 잘라보세요.",
-      "Compliment": "초콜릿 크루아상만 보면 너무 배고파요.",
       "CharacterIndex": 5
     },
     {
@@ -17345,13 +16889,13 @@
       "QuestionValue": 287,
       "Question": "백설공주를 구하세요!",
       "Hint": "사과가 아주 맛있어 보여요. 마녀도 맛보게 하세요!",
-      "Compliment": "가장 공정한 사람은 누구지?\\n 벽에 있는 마법의 거울에게 물어봤어요.\\n그러자 브라이언 옆의 친구가\\n 가장 공정하다고 하네요!",
+      "Compliment": "가장 공정한 사람은 누구지?\n 벽에 있는 마법의 거울에게 물어봤어요.\n그러자 브라이언 옆의 친구가\n 가장 공정하다고 하네요!",
       "CharacterIndex": 12
     },
     {
       "0": "Level66",
       "QuestionValue": 635,
-      "Question": "분위기를 안 좋게 하는 사람은\\n누구인가요?",
+      "Question": "분위기를 안 좋게 하는 사람은\n누구인가요?",
       "Hint": "다들 더위에 짜증 내고 있어요.",
       "Compliment": "어쩔 수 없지만 참아야죠.",
       "CharacterIndex": 13
@@ -17432,7 +16976,7 @@
       "0": "Level76",
       "QuestionValue": 601,
       "Question": "이혼한 사람은 누굴까요?",
-      "Hint": "마이 프레셔스!\\n그 골룸이 나오던 영화 기억하세요?",
+      "Hint": "마이 프레셔스!\n그 골룸이 나오던 영화 기억하세요?",
       "Compliment": "당신도 반지의 제왕 팬이시군요.",
       "CharacterIndex": 15
     },
@@ -17449,7 +16993,7 @@
       "QuestionValue": 632,
       "Question": "어느 쪽이 욕심쟁이인가요?",
       "Hint": "테이블의 돈을 집어다가 사람들의 눈에 지나쳐보세요.",
-      "Compliment": "돈이란 \\n 재밌는 것인가 \\n 봐요. 부자들의 세상에선요.",
+      "Compliment": "돈이란 \n 재밌는 것인가 \n 봐요. 부자들의 세상에선요.",
       "CharacterIndex": 15
     },
     {
@@ -17897,7 +17441,7 @@
       "QuestionValue": 636,
       "Question": "가짜 마이클 잭슨은 누군가요?",
       "Hint": "화면을 기울여보세요.",
-      "Compliment": "애니 아유 오케이? \\n 애니 아유 \\n 오케이?",
+      "Compliment": "애니 아유 오케이? \n 애니 아유 \n 오케이?",
       "CharacterIndex": 26
     },
     {
@@ -18167,22 +17711,6 @@
       "CharacterIndex": 3
     },
     {
-      "0": "Level18",
-      "QuestionValue": 621,
-      "Question": "Yang mana Spiderman?",
-      "Hint": "Gunakan labah-labah.",
-      "Compliment": "Saya selalu berharap ada serangga gigit saya dan beri saya kekuatan istimewa. Brian, kawasan kejiranan anda.",
-      "CharacterIndex": 3
-    },
-    {
-      "0": "Level19",
-      "QuestionValue": 632,
-      "Question": "Siapa yang tamak.",
-      "Hint": "Ambil wang di atas meja dan tunjukkan di depan mata mereka.",
-      "Compliment": "Duit duit, di mana kau duit \\n Hutangku membukit \\n Ada yang benci duit. Ada yang cinta duit.",
-      "CharacterIndex": 3
-    },
-    {
       "0": "Level20",
       "QuestionValue": 344,
       "Question": "Siapakah anak mereka?",
@@ -18207,14 +17735,6 @@
       "CharacterIndex": 4
     },
     {
-      "0": "Level23",
-      "QuestionValue": 400,
-      "Question": "Siapa yang sudah berkahwin?",
-      "Hint": "Periksa tiket.",
-      "Compliment": "Saya perlukan percutian bersama keluarga juga.",
-      "CharacterIndex": 4
-    },
-    {
       "0": "Level24",
       "QuestionValue": 617,
       "Question": "Ibu yang mana satu?",
@@ -18236,14 +17756,6 @@
       "Question": "Siapa yang berbohong?",
       "Hint": "Lihat pada gambar keluarga mungkin dapat membantu anda.",
       "Compliment": "Saya selalu menipu diri sendiri. Tetapi saya tidak pernah percaya diri sendiri. :)",
-      "CharacterIndex": 5
-    },
-    {
-      "0": "Level27",
-      "QuestionValue": 403,
-      "Question": "Siapa yang berbohong?",
-      "Hint": "Cuba potong dua.",
-      "Compliment": "Croissant coklat selalu membuat saya jadi lapar.",
       "CharacterIndex": 5
     },
     {
@@ -18547,7 +18059,7 @@
       "QuestionValue": 287,
       "Question": "Selamatkan Puteri Salji!",
       "Hint": "Epal ini kelihatan sangat sedap. Buatkan ahli sihir makan epal itu juga!",
-      "Compliment": "Saya bertanya pada Cermin Ajaib di dinding:\\n Siapakah yang paling cantik?\\nIa menjawab: orang yang;\\n Bermain dengan Brian!",
+      "Compliment": "Saya bertanya pada Cermin Ajaib di dinding:\n Siapakah yang paling cantik?\n Ia menjawab: orang yang;\n Bermain dengan Brian!",
       "CharacterIndex": 12
     },
     {
@@ -18651,7 +18163,7 @@
       "QuestionValue": 632,
       "Question": "Siapa yang tamak.",
       "Hint": "Ambil wang di atas meja dan tunjukkan di depan mata mereka.",
-      "Compliment": "Duit duit, di mana kau duit \\n Hutangku membukit \\n Ada yang benci duit. Ada yang cinta duit.",
+      "Compliment": "Duit duit, di mana kau duit \n Hutangku membukit \n Ada yang benci duit. Ada yang cinta duit.",
       "CharacterIndex": 15
     },
     {
@@ -19099,7 +18611,7 @@
       "QuestionValue": 636,
       "Question": "Yang mana Michael Jackson palsu?",
       "Hint": "Cuba condongkan skrin.",
-      "Compliment": "Annie, awak okey? \\n Jadi, Annie awak okey? \\n Awak okey, Annie?",
+      "Compliment": "Annie, awak okey? \n Jadi, Annie awak okey? \n Awak okey, Annie?",
       "CharacterIndex": 26
     },
     {
@@ -19369,22 +18881,6 @@
       "CharacterIndex": 3
     },
     {
-      "0": "Level18",
-      "QuestionValue": 621,
-      "Question": "Który z nich jest człowiekiem-pająkiem?",
-      "Hint": "Użyj pająka.",
-      "Compliment": "Zawsze miałem nadzieję, że coś mnie ukąsi i zyskam jakieś moce. Lokalny superbohater Brian.",
-      "CharacterIndex": 3
-    },
-    {
-      "0": "Level19",
-      "QuestionValue": 632,
-      "Question": "Który z nich jest chciwy?",
-      "Hint": "Weź pieniądze ze stołu i przesuń je przed ich oczami.",
-      "Compliment": "Pieniądze są dla niektórych jak narkotyk.",
-      "CharacterIndex": 3
-    },
-    {
       "0": "Level20",
       "QuestionValue": 344,
       "Question": "Które dziecko jest ich?",
@@ -19409,14 +18905,6 @@
       "CharacterIndex": 4
     },
     {
-      "0": "Level23",
-      "QuestionValue": 400,
-      "Question": "Który z nich ma żonę?",
-      "Hint": "Sprawdź bilety.",
-      "Compliment": "Też chętnie wybrałbym się na rodzinne wakacje.",
-      "CharacterIndex": 4
-    },
-    {
       "0": "Level24",
       "QuestionValue": 617,
       "Question": "Które z tych zwierząt jest mamą?",
@@ -19438,14 +18926,6 @@
       "Question": "Kto kłamie?",
       "Hint": "Rzut oka na rodzinne zdjęcie na pewno nie zaszkodzi.",
       "Compliment": "Nieustannie okłamuję samego siebie. Nigdy sobie jednak nie wierzę. :)",
-      "CharacterIndex": 5
-    },
-    {
-      "0": "Level27",
-      "QuestionValue": 403,
-      "Question": "Kto kłamie?",
-      "Hint": "Spróbuj przeciąć go na pół.",
-      "Compliment": "Zawsze robię się głodny na widok rogalika z czekoladą.",
       "CharacterIndex": 5
     },
     {
@@ -19749,7 +19229,7 @@
       "QuestionValue": 287,
       "Question": "Uratuj Królewnę Śnieżkę!",
       "Hint": "Jabłko wygląda smakowicie. Czarownica też powinna go spróbować!",
-      "Compliment": "Lustereczko, powiedz przecie:\\n Co jest najwspanialsze w świecie?\\nLustereczko: jasna sprawa.\\n To z Brianem jest zabawa!",
+      "Compliment": "Lustereczko, powiedz przecie:\n Co jest najwspanialsze w świecie?\nLustereczko: jasna sprawa.\n To z Brianem jest zabawa!",
       "CharacterIndex": 12
     },
     {
@@ -20571,22 +20051,6 @@
       "CharacterIndex": 3
     },
     {
-      "0": "Level18",
-      "QuestionValue": 621,
-      "Question": "Qual é o homem-aranha?",
-      "Hint": "Use a aranha.",
-      "Compliment": "Sempre quis que um inseto me mordesse e me desse poderes especiais. Brian, o herói amigo da vizinhança.",
-      "CharacterIndex": 3
-    },
-    {
-      "0": "Level19",
-      "QuestionValue": 632,
-      "Question": "Quem é o ganancioso?",
-      "Hint": "Passe o dinheiro pelos olhos deles e veja o que acontece!",
-      "Compliment": "Ei, você aí, \\n me dá um dinheiro aí, \\n me dá um dinheiro aí.",
-      "CharacterIndex": 3
-    },
-    {
       "0": "Level20",
       "QuestionValue": 344,
       "Question": "Eles são pais de quem?",
@@ -20611,14 +20075,6 @@
       "CharacterIndex": 4
     },
     {
-      "0": "Level23",
-      "QuestionValue": 400,
-      "Question": "Quem é casado?",
-      "Hint": "Confira as passagens.",
-      "Compliment": "Também preciso de férias com minha família.",
-      "CharacterIndex": 4
-    },
-    {
       "0": "Level24",
       "QuestionValue": 617,
       "Question": "Qual é a mãe?",
@@ -20640,14 +20096,6 @@
       "Question": "Quem está mentindo?",
       "Hint": "Olhar as fotos da família pode ajudar.",
       "Compliment": "Eu minto para mim mesmo o tempo todo, mas nunca acreditei em mim mesmo. :)",
-      "CharacterIndex": 5
-    },
-    {
-      "0": "Level27",
-      "QuestionValue": 403,
-      "Question": "Quem está mentindo?",
-      "Hint": "Experimente cortar ao meio.",
-      "Compliment": "Croissant de chocolate sempre me dá fome.",
       "CharacterIndex": 5
     },
     {
@@ -20951,7 +20399,7 @@
       "QuestionValue": 287,
       "Question": "Salve a Branca de Neve!",
       "Hint": "A maçã parece tão deliciosa. Faça a bruxa experimentar também!",
-      "Compliment": "Perguntei ao Espelho Mágico na parede:\\n Quem é mais bela do que eu?\\nEle respondeu: aquela que\\n está jogando com o Brian!",
+      "Compliment": "Perguntei ao Espelho Mágico na parede:\n Quem é mais bela do que eu?\nEle respondeu: aquela que\n está jogando com o Brian!",
       "CharacterIndex": 12
     },
     {
@@ -21055,7 +20503,7 @@
       "QuestionValue": 632,
       "Question": "Quem é o ganancioso?",
       "Hint": "Passe o dinheiro pelos olhos deles e veja o que acontece!",
-      "Compliment": "Ei, você aí, \\n me dá um dinheiro aí, \\n me dá um dinheiro aí.",
+      "Compliment": "Ei, você aí, \n me dá um dinheiro aí, \n me dá um dinheiro aí.",
       "CharacterIndex": 15
     },
     {
@@ -21503,7 +20951,7 @@
       "QuestionValue": 636,
       "Question": "Quem é o falso Michael Jackson?",
       "Hint": "Tente inclinar a tela.",
-      "Compliment": "Annie, você está bem? \\n Annie, você está bem? \\n Você está bem, Annie?",
+      "Compliment": "Annie, você está bem? \n Annie, você está bem? \n Você está bem, Annie?",
       "CharacterIndex": 26
     },
     {
@@ -21773,22 +21221,6 @@
       "CharacterIndex": 3
     },
     {
-      "0": "Level18",
-      "QuestionValue": 621,
-      "Question": "Cine este omul-păianjen?",
-      "Hint": "Folosește păianjenul.",
-      "Compliment": "Mereu am sperat că mă va mușca o insectă care să-mi dea niște puteri speciale. Brian, eroul tău prietenos din cartier.",
-      "CharacterIndex": 3
-    },
-    {
-      "0": "Level19",
-      "QuestionValue": 632,
-      "Question": "Cine este lacom?",
-      "Hint": "Ia bani de pe masă și trece-i prin fața lor.",
-      "Compliment": "Bani, bani și iar bani \\n Trebuie să fie distractiv. \\n În lumea celor bogați.",
-      "CharacterIndex": 3
-    },
-    {
       "0": "Level20",
       "QuestionValue": 344,
       "Question": "Cine este copilul lor?",
@@ -21813,14 +21245,6 @@
       "CharacterIndex": 4
     },
     {
-      "0": "Level23",
-      "QuestionValue": 400,
-      "Question": "Cine este căsătorită?",
-      "Hint": "Verifică biletele.",
-      "Compliment": "Și eu am nevoie de o vacanță alături de familie.",
-      "CharacterIndex": 4
-    },
-    {
       "0": "Level24",
       "QuestionValue": 617,
       "Question": "Care dintre ele este mama?",
@@ -21842,14 +21266,6 @@
       "Question": "Cine minte?",
       "Hint": "Dacă te uiți pe fotografiile de familie, s-ar putea să te lămurești.",
       "Compliment": "Mă mint tot timpul. Dar nu mă cred niciodată. :)",
-      "CharacterIndex": 5
-    },
-    {
-      "0": "Level27",
-      "QuestionValue": 403,
-      "Question": "Cine minte?",
-      "Hint": "Încearcă să îl tai în două.",
-      "Compliment": "Croissantele cu ciocolată îmi fac mereu o foame de lup.",
       "CharacterIndex": 5
     },
     {
@@ -22153,7 +21569,7 @@
       "QuestionValue": 287,
       "Question": "Salveaz-o pe Albă ca Zăpada!",
       "Hint": "Mărul arată delicios. Fă-o pe vrăjitoare să guste din el!",
-      "Compliment": "Am întrebat: oglindă, oglinjoară:\\n cine este cea mai frumoasă din țară?\\nȘi ea mi-a răspuns: cea\\n care se joacă cu Brian!",
+      "Compliment": "Am întrebat: oglindă, oglinjoară:\n cine este cea mai frumoasă din țară?\n Și ea mi-a răspuns: cea\n care se joacă cu Brian!",
       "CharacterIndex": 12
     },
     {
@@ -22257,7 +21673,7 @@
       "QuestionValue": 632,
       "Question": "Cine este lacom?",
       "Hint": "Ia bani de pe masă și trece-i prin fața lor.",
-      "Compliment": "Bani, bani și iar bani \\n Trebuie să fie distractiv. \\n În lumea celor bogați.",
+      "Compliment": "Bani, bani și iar bani \n Trebuie să fie distractiv. \n În lumea celor bogați.",
       "CharacterIndex": 15
     },
     {
@@ -22705,7 +22121,7 @@
       "QuestionValue": 636,
       "Question": "Cine este falsul Michael Jackson?",
       "Hint": "Încearcă să înclini ecranul.",
-      "Compliment": "Annie, ești în regulă? \\n Deci, Annie, ești regulă? \\n Ești în regulă, Annie?",
+      "Compliment": "Annie, ești în regulă? \n Deci, Annie, ești regulă? \n Ești în regulă, Annie?",
       "CharacterIndex": 26
     },
     {
@@ -22975,22 +22391,6 @@
       "CharacterIndex": 3
     },
     {
-      "0": "Level18",
-      "QuestionValue": 621,
-      "Question": "Кто из них Человек-паук?",
-      "Hint": "Используй паука.",
-      "Compliment": "Всегда хотел, чтобы меня укусил жук и я обрел сверхспособности. Брайан, ваш дружелюбный сосед.",
-      "CharacterIndex": 3
-    },
-    {
-      "0": "Level19",
-      "QuestionValue": 632,
-      "Question": "Кто из них жадный?",
-      "Hint": "Возьми деньги со стола и покажи им.",
-      "Compliment": "Деньги-деньги, дребеденьги. Позабыв покой и лень, Делай деньги, делай деньги.",
-      "CharacterIndex": 3
-    },
-    {
       "0": "Level20",
       "QuestionValue": 344,
       "Question": "Кто их ребенок?",
@@ -23015,14 +22415,6 @@
       "CharacterIndex": 4
     },
     {
-      "0": "Level23",
-      "QuestionValue": 400,
-      "Question": "Кто из них женат?",
-      "Hint": "Проверь билеты.",
-      "Compliment": "Мне тоже нужен отпуск с семьей.",
-      "CharacterIndex": 4
-    },
-    {
       "0": "Level24",
       "QuestionValue": 617,
       "Question": "Кто из них мама?",
@@ -23035,7 +22427,7 @@
       "QuestionValue": 391,
       "Question": "Кто может бегать быстрее всех?",
       "Hint": "Некоторые животные быстрее людей.",
-      "Compliment": "Бип-бип! Кто скучает по Хитрому койоту и Дорожному бегуну?\\nЯ уж точно скучаю.",
+      "Compliment": "Бип-бип! Кто скучает по Хитрому койоту и Дорожному бегуну?\n Я уж точно скучаю.",
       "CharacterIndex": 4
     },
     {
@@ -23047,26 +22439,18 @@
       "CharacterIndex": 5
     },
     {
-      "0": "Level27",
-      "QuestionValue": 403,
-      "Question": "Кто обманывает?",
-      "Hint": "Попробуйте разрезать его пополам.",
-      "Compliment": "При одном взгляде на шоколадный круассан у меня всегда просыпается аппетит.",
-      "CharacterIndex": 5
-    },
-    {
       "0": "Level28",
       "QuestionValue": 643,
       "Question": "Какой туалет неисправен?",
       "Hint": "Посмотри на туалеты с высоты птичьего полета.",
-      "Compliment": "Тебе удалось найти неисправный туалет,\\nно больше никогда не подглядывай за другими.",
+      "Compliment": "Тебе удалось найти неисправный туалет,\n но больше никогда не подглядывай за другими.",
       "CharacterIndex": 5
     },
     {
       "0": "Level29",
       "QuestionValue": 368,
       "Question": "Найди грушу!",
-      "Hint": "Что это там за фруктовое дерево такое?\\nНа нем груша и яблоки одновременно?",
+      "Hint": "Что это там за фруктовое дерево такое?\n На нем груша и яблоки одновременно?",
       "Compliment": "Есть ли деревья, на которых одновременно растут яблоки, груши и другие фрукты? Почему бы нет?",
       "CharacterIndex": 5
     },
@@ -23107,7 +22491,7 @@
       "QuestionValue": 247,
       "Question": "Найди кость!",
       "Hint": "Коты любят играть с клубками пряжи, но что там делает кость?",
-      "Compliment": "Для кошки клубок пряжи — лучшая игрушка.\nНо что здесь делает эта кость?\\nКарамельке тоже нравится играться с ними. Тебе пригодится эта информация ;)",
+      "Compliment": "Для кошки клубок пряжи — лучшая игрушка.\n Но что здесь делает эта кость?\n Карамельке тоже нравится играться с ними. Тебе пригодится эта информация ;)",
       "CharacterIndex": 6
     },
     {
@@ -23291,7 +22675,7 @@
       "QuestionValue": 367,
       "Question": "Найди коробку.",
       "Hint": "Это открытая коробка! Проверь внизу слева.",
-      "Compliment": "Надеюсь, она не проснулась! Это спящая красавица.\\nЕе зовут Ада! Кстати, в комнате Карамелька не попадалась?",
+      "Compliment": "Надеюсь, она не проснулась! Это спящая красавица.\n Ее зовут Ада! Кстати, в комнате Карамелька не попадалась?",
       "CharacterIndex": 11
     },
     {
@@ -23355,7 +22739,7 @@
       "QuestionValue": 287,
       "Question": "Спаси Белоснежку!",
       "Hint": "Яблоко выглядит так вкусно. Пусть ведьма тоже попробует его!",
-      "Compliment": "Спросил я зеркальце скорее:\\n«Кто, скажи мне, всех умнее?»\\nИ мне зеркальце в ответ:\\n«Друг твой, спору нет!»",
+      "Compliment": "Спросил я зеркальце скорее:\n «Кто, скажи мне, всех умнее?»\n И мне зеркальце в ответ:\n «Друг твой, спору нет!»",
       "CharacterIndex": 12
     },
     {
@@ -23482,7 +22866,7 @@
       "0": "Level81",
       "QuestionValue": 345,
       "Question": "Найди семя вишневого дерева.",
-      "Hint": "Примени свои навыки садоводства,\\nчтобы посадить семена и посмотреть, что из них вырастет.",
+      "Hint": "Примени свои навыки садоводства,\n чтобы посадить семена и посмотреть, что из них вырастет.",
       "Compliment": "Ты расцветаешь, как вишня весной :)",
       "CharacterIndex": 16
     },
@@ -23571,7 +22955,7 @@
       "QuestionValue": 295,
       "Question": "Помоги забросить мяч в корзину.",
       "Hint": "Что поможет ему вырасти? Сможешь найти?",
-      "Compliment": "Герои приходят и уходят, а легенды остаются навсегда!\\nНадеюсь, он добьется такого же успеха, как Коби Брайант!",
+      "Compliment": "Герои приходят и уходят, а легенды остаются навсегда!\n Надеюсь, он добьется такого же успеха, как Коби Брайант!",
       "CharacterIndex": 18
     },
     {
@@ -24177,22 +23561,6 @@
       "CharacterIndex": 3
     },
     {
-      "0": "Level18",
-      "QuestionValue": 621,
-      "Question": "Ko je Spajdermen?",
-      "Hint": "Koristite pauka.",
-      "Compliment": "Oduvek sam se nadao da će me buba ujesti i dati mi super moći. Brajan, vaš dobri heroj iz komšiluka.",
-      "CharacterIndex": 3
-    },
-    {
-      "0": "Level19",
-      "QuestionValue": 632,
-      "Question": "Ko je pohlepan?",
-      "Hint": "Uzmite novac sa stola i provucite im ga ispred očiju.",
-      "Compliment": "Money, money, money \\n Must be funny. \\n In the rich man's world.",
-      "CharacterIndex": 3
-    },
-    {
       "0": "Level20",
       "QuestionValue": 344,
       "Question": "Koje dete je njihovo?",
@@ -24217,14 +23585,6 @@
       "CharacterIndex": 4
     },
     {
-      "0": "Level23",
-      "QuestionValue": 400,
-      "Question": "Ko je u braku?",
-      "Hint": "Proverite karte.",
-      "Compliment": "I meni je potreban odmor sa porodicom.",
-      "CharacterIndex": 4
-    },
-    {
       "0": "Level24",
       "QuestionValue": 617,
       "Question": "Ko je mama?",
@@ -24246,14 +23606,6 @@
       "Question": "Ko laže?",
       "Hint": "Možda bi vam pomoglo da pogledate porodične fotografije.",
       "Compliment": "Ja uvek lažem sebe. Ali nikada sebi ne verujem. :)",
-      "CharacterIndex": 5
-    },
-    {
-      "0": "Level27",
-      "QuestionValue": 403,
-      "Question": "Ko laže?",
-      "Hint": "Pokušajte da ga presečete na pola.",
-      "Compliment": "Od čokoladnog kroasana uvek ogladnim.",
       "CharacterIndex": 5
     },
     {
@@ -24557,7 +23909,7 @@
       "QuestionValue": 287,
       "Question": "Spasite Snežanu!",
       "Hint": "Jabuka izgleda preukusno. Primorajte i vešticu da je proba!",
-      "Compliment": "Pitao sam čarobno ogledalo:\\n Ogledalce moje, najlepši na svetu ko je?\\nOdgovorilo je: ti;\\n što igraš sa Brajanom!",
+      "Compliment": "Pitao sam čarobno ogledalo:\n Ogledalce moje, najlepši na svetu ko je?\n Odgovorilo je: ti;\n što igraš sa Brajanom!",
       "CharacterIndex": 12
     },
     {
@@ -24661,7 +24013,7 @@
       "QuestionValue": 632,
       "Question": "Ko je pohlepan?",
       "Hint": "Uzmite novac sa stola i provucite im ga ispred očiju.",
-      "Compliment": "Money, money, money \\n Must be funny. \\n In the rich man's world.",
+      "Compliment": "Money, money, money \n Must be funny. \n In the rich man's world.",
       "CharacterIndex": 15
     },
     {
@@ -25109,7 +24461,7 @@
       "QuestionValue": 636,
       "Question": "Ko je lažni Majkl Džekson?",
       "Hint": "Pokušajte da nagnete ekran.",
-      "Compliment": "Annie, are you okay? \\n So, Annie are you okay? \\n Are you okay, Annie?",
+      "Compliment": "Annie, are you okay? \n So, Annie are you okay? \n Are you okay, Annie?",
       "CharacterIndex": 26
     },
     {
@@ -25379,22 +24731,6 @@
       "CharacterIndex": 3
     },
     {
-      "0": "Level18",
-      "QuestionValue": 621,
-      "Question": "¿Cuál es Spiderman?",
-      "Hint": "Usa la araña.",
-      "Compliment": "Siempre tuve la esperanza de que me picara algún bicho y me otorgara poderes especiales. Tu amistoso vecino Brian.",
-      "CharacterIndex": 3
-    },
-    {
-      "0": "Level19",
-      "QuestionValue": 632,
-      "Question": "¿Cuál es codicioso?",
-      "Hint": "Coge dinero de la mesa y pásaselo por delante de los ojos.",
-      "Compliment": "Qué divertido debe de ser tener dinero y vivir en el mundo de los ricos.",
-      "CharacterIndex": 3
-    },
-    {
       "0": "Level20",
       "QuestionValue": 344,
       "Question": "¿Quién es hijo suyo?",
@@ -25419,14 +24755,6 @@
       "CharacterIndex": 4
     },
     {
-      "0": "Level23",
-      "QuestionValue": 400,
-      "Question": "¿Quién está casado?",
-      "Hint": "Comprueba los billetes.",
-      "Compliment": "Yo también necesito unas vacaciones con mi familia.",
-      "CharacterIndex": 4
-    },
-    {
       "0": "Level24",
       "QuestionValue": 617,
       "Question": "¿Cuál es la madre?",
@@ -25448,14 +24776,6 @@
       "Question": "¿Quién miente?",
       "Hint": "Quizás te ayude mirar las fotos familiares.",
       "Compliment": "Yo me miento todo el tiempo, pero nunca me he creído. :)",
-      "CharacterIndex": 5
-    },
-    {
-      "0": "Level27",
-      "QuestionValue": 403,
-      "Question": "¿Quién miente?",
-      "Hint": "Intenta cortarlo por la mitad.",
-      "Compliment": "Los cruasanes de chocolate siempre me dan hambre.",
       "CharacterIndex": 5
     },
     {
@@ -25759,7 +25079,7 @@
       "QuestionValue": 287,
       "Question": "¡Salva a Blancanieves!",
       "Hint": "La manzana tiene un aspecto delicioso. ¡Haz que la pruebe también la bruja!",
-      "Compliment": "Le pregunté al espejo mágico de la pared:\\n ¿Quién es la más bella del lugar?\\nMe contestó: esa;\\n ¡Jugando con Brian!",
+      "Compliment": "Le pregunté al espejo mágico de la pared:\n ¿Quién es la más bella del lugar?\n Me contestó: esa;\n ¡Jugando con Brian!",
       "CharacterIndex": 12
     },
     {
@@ -26311,7 +25631,7 @@
       "QuestionValue": 636,
       "Question": "¿Cuál es el Michael Jackson de mentira?",
       "Hint": "Prueba a inclinar la pantalla.",
-      "Compliment": "Annie, are you okay? \\n So, Annie are you okay? \\n Are you okay, Annie?",
+      "Compliment": "Annie, are you okay? \n So, Annie are you okay? \n Are you okay, Annie?",
       "CharacterIndex": 26
     },
     {
@@ -26581,22 +25901,6 @@
       "CharacterIndex": 3
     },
     {
-      "0": "Level18",
-      "QuestionValue": 621,
-      "Question": "誰是蜘蛛人？",
-      "Hint": "使用蜘蛛。",
-      "Compliment": "我一直希望蟲子咬我，然後給我特殊力量。 布萊恩，你友好的英雄鄰居。",
-      "CharacterIndex": 3
-    },
-    {
-      "0": "Level19",
-      "QuestionValue": 632,
-      "Question": "誰比較貪婪？",
-      "Hint": "拿走桌上的錢，在他們眼前秀一下。",
-      "Compliment": "錢、錢、錢\\n 肯定很有趣。  \\n 在富人的世界裡。",
-      "CharacterIndex": 3
-    },
-    {
       "0": "Level20",
       "QuestionValue": 344,
       "Question": "誰是他們的孩子？",
@@ -26621,14 +25925,6 @@
       "CharacterIndex": 4
     },
     {
-      "0": "Level23",
-      "QuestionValue": 400,
-      "Question": "誰結婚了？",
-      "Hint": "檢查機票。",
-      "Compliment": "我也需要和家人個度假。",
-      "CharacterIndex": 4
-    },
-    {
       "0": "Level24",
       "QuestionValue": 617,
       "Question": "誰是媽媽？",
@@ -26650,14 +25946,6 @@
       "Question": "誰在說謊？",
       "Hint": "看看家庭照片可能有線索。",
       "Compliment": "我一直欺騙自己。 但我從來不相信自己。  :)",
-      "CharacterIndex": 5
-    },
-    {
-      "0": "Level27",
-      "QuestionValue": 403,
-      "Question": "誰在說謊？",
-      "Hint": "試著把它切對半。",
-      "Compliment": "巧克力可頌總是讓我垂涎三尺。",
       "CharacterIndex": 5
     },
     {
@@ -26961,7 +26249,7 @@
       "QuestionValue": 287,
       "Question": "拯救白雪公主！",
       "Hint": "蘋果看起來很好吃。 讓女巫也嘗一口吧！",
-      "Compliment": "我問了牆上的魔鏡：\\n誰是最美麗的？\\n它回答說：和布萊恩；\\n在玩的那位！",
+      "Compliment": "我問了牆上的魔鏡：\n誰是最美麗的？\n它回答說：和布萊恩；\n在玩的那位！",
       "CharacterIndex": 12
     },
     {
@@ -27065,7 +26353,7 @@
       "QuestionValue": 632,
       "Question": "誰比較貪婪？",
       "Hint": "拿走桌上的錢，在他們眼前秀一下。",
-      "Compliment": "錢、錢、錢\\n 肯定很有趣。  \\n 在富人的世界裡。",
+      "Compliment": "錢、錢、錢\n 肯定很有趣。  \n 在富人的世界裡。",
       "CharacterIndex": 15
     },
     {
@@ -27513,7 +26801,7 @@
       "QuestionValue": 636,
       "Question": "誰是假的麥克傑克森？",
       "Hint": "試著傾斜畫面。",
-      "Compliment": "安妮，你沒事吧？ \\n 安妮，你沒事吧？\\n 你沒事吧，安妮？",
+      "Compliment": "安妮，你沒事吧？ \n 安妮，你沒事吧？\n 你沒事吧，安妮？",
       "CharacterIndex": 26
     },
     {
@@ -27783,22 +27071,6 @@
       "CharacterIndex": 3
     },
     {
-      "0": "Level18",
-      "QuestionValue": 621,
-      "Question": "คนไหนคือสไปเดอร์แมน?",
-      "Hint": "ใช้แมงมุมสิ",
-      "Compliment": "ฉันอยากให้แมลงกัดแล้วให้พลังพิเศษกับฉันจัง ไบรอัน เพื่อนบ้านที่แสนดีของคุณ",
-      "CharacterIndex": 3
-    },
-    {
-      "0": "Level19",
-      "QuestionValue": 632,
-      "Question": "คนไหนเป็นคนงก?",
-      "Hint": "เอาเงินจากโต๊ะไปผ่านตาของแต่ละคนสิ",
-      "Compliment": "เงิน เงิน เงิน \\n คงเป็นเรื่องตลก \\n ในสังคมคนรวย",
-      "CharacterIndex": 3
-    },
-    {
       "0": "Level20",
       "QuestionValue": 344,
       "Question": "ใครเป็นลูกของพวกเขา?",
@@ -27823,14 +27095,6 @@
       "CharacterIndex": 4
     },
     {
-      "0": "Level23",
-      "QuestionValue": 400,
-      "Question": "ใครที่แต่งงานแล้ว?",
-      "Hint": "ตรวจดูตั๋วสิ",
-      "Compliment": "ฉันก็อยากไปพักร้อนกับครอบครัวบ้าง",
-      "CharacterIndex": 4
-    },
-    {
       "0": "Level24",
       "QuestionValue": 617,
       "Question": "ตัวไหนเป็นแม่?",
@@ -27852,14 +27116,6 @@
       "Question": "ใครเป็นคนโกหก?",
       "Hint": "ภาพถ่ายครอบครัวอาจช่วยคุณได้",
       "Compliment": "ฉันโกหกตัวเองตลอดเวลา แต่ไม่เคยเชื่อตัวเองเลย :)",
-      "CharacterIndex": 5
-    },
-    {
-      "0": "Level27",
-      "QuestionValue": 403,
-      "Question": "ใครเป็นคนโกหก?",
-      "Hint": "ลองหั่นแบ่งครึ่งดู",
-      "Compliment": "ครัวซองต์ช็อกโกแลตทำให้ฉันหิวทุกครั้งเลย",
       "CharacterIndex": 5
     },
     {
@@ -28163,7 +27419,7 @@
       "QuestionValue": 287,
       "Question": "ช่วยสโนว์ไวท์หน่อย!",
       "Hint": "แอปเปิลนี่ดูน่าอร่อย ลองให้แม่มดกินด้วยสิ!",
-      "Compliment": "กระจกวิเศษบอกข้าเถิด:\\n ผู้ใดงามเลิศในปฐพี?\\nกระจกตอบว่า: คนนั้นไง;\\n ที่เล่นกับไบรอัน!",
+      "Compliment": "กระจกวิเศษบอกข้าเถิด:\n ผู้ใดงามเลิศในปฐพี?\nกระจกตอบว่า: คนนั้นไง;\n ที่เล่นกับไบรอัน!",
       "CharacterIndex": 12
     },
     {
@@ -28267,7 +27523,7 @@
       "QuestionValue": 632,
       "Question": "คนไหนเป็นคนงก?",
       "Hint": "เอาเงินจากโต๊ะไปผ่านตาของแต่ละคนสิ",
-      "Compliment": "เงิน เงิน เงิน \\n คงเป็นเรื่องตลก \\n ในสังคมคนรวย",
+      "Compliment": "เงิน เงิน เงิน \n คงเป็นเรื่องตลก \n ในสังคมคนรวย",
       "CharacterIndex": 15
     },
     {
@@ -28715,7 +27971,7 @@
       "QuestionValue": 636,
       "Question": "คนไหนเป็นไมเคิล แจ็กสันตัวปลอม?",
       "Hint": "ลองขยับหน้าจอสิ",
-      "Compliment": "Annie, are you okay? \\n So, Annie are you okay? \\n Are you okay, Annie? (ร้องเพลง)",
+      "Compliment": "Annie, are you okay? \n So, Annie are you okay? \n Are you okay, Annie? (ร้องเพลง)",
       "CharacterIndex": 26
     },
     {
@@ -28985,22 +28241,6 @@
       "CharacterIndex": 3
     },
     {
-      "0": "Level18",
-      "QuestionValue": 621,
-      "Question": "اسپائڈرمین کون ہے؟",
-      "Hint": "مکڑی استعمال کرو۔",
-      "Compliment": "میری ہمیشہ سے خواہش تھی کہ کوئی کیڑا مجھے کاٹ لے اور مجھ میں سپر پاورز آ جائیں۔ بلال، تمہارے محلے کا ملنسار ہیرو۔",
-      "CharacterIndex": 3
-    },
-    {
-      "0": "Level19",
-      "QuestionValue": 632,
-      "Question": "کون لالچی ہے؟",
-      "Hint": "میز سے پیسے اٹھا کر ان کی نظروں کے سامنے لے جاؤ۔",
-      "Compliment": "پیسہ پیسہ پیسہ \\n تو پیسہ پیسہ کرتی ہے۔ \\n تو پیسے پہ کیوں مرتی ہے۔",
-      "CharacterIndex": 3
-    },
-    {
       "0": "Level20",
       "QuestionValue": 344,
       "Question": "ان کا بچہ کون ہے؟",
@@ -29025,14 +28265,6 @@
       "CharacterIndex": 4
     },
     {
-      "0": "Level23",
-      "QuestionValue": 400,
-      "Question": "کون شادی شدہ ہے؟",
-      "Hint": "ٹکٹ چیک کرو۔",
-      "Compliment": "مجھے بھی اپنی فیملی کے ساتھ گھومنے جانا ہے۔",
-      "CharacterIndex": 4
-    },
-    {
       "0": "Level24",
       "QuestionValue": 617,
       "Question": "ماں کون ہے؟",
@@ -29054,14 +28286,6 @@
       "Question": "کس نے جھوٹ بولا؟",
       "Hint": "فیملی کی تصویریں دیکھنے سے مدد مل سکتی ہے۔",
       "Compliment": "میں ہر وقت خود سے جھوٹ بولتا ہوں۔ مگر میں خود پر اعتبار نہیں کرتا۔ :)",
-      "CharacterIndex": 5
-    },
-    {
-      "0": "Level27",
-      "QuestionValue": 403,
-      "Question": "کس نے جھوٹ بولا؟",
-      "Hint": "اسے آدھا کاٹ کر دیکھو۔",
-      "Compliment": "مجھے ہمیشہ چاکلیٹ دیکھ کر بھوک لگ جاتی ہے۔",
       "CharacterIndex": 5
     },
     {
@@ -29365,7 +28589,7 @@
       "QuestionValue": 287,
       "Question": "سنو وائٹ کو بچاؤ!",
       "Hint": "سیب تو مزے دار لگ رہا ہے۔ ذرا جادوگرنی کو بھی اس کا ذائقہ چکھاؤ!",
-      "Compliment": "میں نے دیوار پر لگے جادوئی آئینے سے پوچھا: \\n سب سے پیارا کون ہے؟\\nاس نے کہا: وہ \\n جو بلال کے ساتھ کھیل رہا ہے!",
+      "Compliment": "میں نے دیوار پر لگے جادوئی آئینے سے پوچھا: \n سب سے پیارا کون ہے؟\nاس نے کہا: وہ \n جو بلال کے ساتھ کھیل رہا ہے!",
       "CharacterIndex": 12
     },
     {
@@ -29469,7 +28693,7 @@
       "QuestionValue": 632,
       "Question": "کون لالچی ہے؟",
       "Hint": "میز سے پیسے اٹھا کر ان کی نظروں کے سامنے لے جاؤ۔",
-      "Compliment": "پیسہ پیسہ پیسہ \\n تو پیسہ پیسہ کرتی ہے۔ \\n تو پیسے پہ کیوں مرتی ہے۔",
+      "Compliment": "پیسہ پیسہ پیسہ \n تو پیسہ پیسہ کرتی ہے۔ \n تو پیسے پہ کیوں مرتی ہے۔",
       "CharacterIndex": 15
     },
     {
@@ -29917,7 +29141,7 @@
       "QuestionValue": 636,
       "Question": "کون نقلی مائیکل جیکسن ہے؟",
       "Hint": "اسکرین ٹیڑھی کر کے دیکھو۔",
-      "Compliment": "عینی، تم ٹھیک ہو؟ \\n تو عینی، تم ٹھیک ہو؟ \\n تم ٹھیک ہو عینی؟",
+      "Compliment": "عینی، تم ٹھیک ہو؟ \n تو عینی، تم ٹھیک ہو؟ \n تم ٹھیک ہو عینی؟",
       "CharacterIndex": 26
     },
     {
@@ -30187,22 +29411,6 @@
       "CharacterIndex": 3
     },
     {
-      "0": "Level18",
-      "QuestionValue": 621,
-      "Question": "Ai mới là người nhện?",
-      "Hint": "Hãy dùng chú nhện con.",
-      "Compliment": "Lúc nào tớ cũng mong có con bọ sẽ cắn tớ và mang đến sức mạnh siêu nhiên. Brian, hàng xóm thân thiện của bạn.",
-      "CharacterIndex": 3
-    },
-    {
-      "0": "Level19",
-      "QuestionValue": 632,
-      "Question": "Ai mới là người tham lam?",
-      "Hint": "Hãy lấy tiền trên bàn và đưa ra trước mắt họ.",
-      "Compliment": "Tiền thật nhiều \\n trong túi \\n Đến khi mắt kính rơi thấy tiền là ham :)",
-      "CharacterIndex": 3
-    },
-    {
       "0": "Level20",
       "QuestionValue": 344,
       "Question": "Ai mới là con của họ?",
@@ -30227,14 +29435,6 @@
       "CharacterIndex": 4
     },
     {
-      "0": "Level23",
-      "QuestionValue": 400,
-      "Question": "Ai đã kết hôn?",
-      "Hint": "Xem thử vé.",
-      "Compliment": "Tôi cũng cần đi chơi đâu đó với gia đình.",
-      "CharacterIndex": 4
-    },
-    {
       "0": "Level24",
       "QuestionValue": 617,
       "Question": "Ai mới là mẹ?",
@@ -30256,14 +29456,6 @@
       "Question": "Ai đang nói dối?",
       "Hint": "Xem bức ảnh gia đình sẽ giúp được bạn đấy.",
       "Compliment": "Tớ toàn nói dối bản thân mình. Nhưng may là chả bao giờ tớ tin cả. :)",
-      "CharacterIndex": 5
-    },
-    {
-      "0": "Level27",
-      "QuestionValue": 403,
-      "Question": "Ai đang nói dối?",
-      "Hint": "Hãy thử cắt làm đôi.",
-      "Compliment": "Bánh sừng bò sô-cô-la luôn khiến bụng tớ hò reo.",
       "CharacterIndex": 5
     },
     {
@@ -30567,7 +29759,7 @@
       "QuestionValue": 287,
       "Question": "Hãy cứu nàng Bạch Tuyết!",
       "Hint": "Quả táo trông thật ngon. Hãy làm phù thủy nếm thử nó!",
-      "Compliment": "Gương kia ngự ở trên tường:\\n Thế gian ai mới công bằng như ta?\\nGương trả lời: là người;\\n Đang chơi với Brian!",
+      "Compliment": "Gương kia ngự ở trên tường:\n Thế gian ai mới công bằng như ta?\n Gương trả lời: là người;\n Đang chơi với Brian!",
       "CharacterIndex": 12
     },
     {
@@ -30671,7 +29863,7 @@
       "QuestionValue": 632,
       "Question": "Ai mới là người tham lam?",
       "Hint": "Hãy lấy tiền trên bàn và đưa ra trước mắt họ.",
-      "Compliment": "Tiền thật nhiều \\n trong túi \\n Đến khi mắt kính rơi thấy tiền là ham :)",
+      "Compliment": "Tiền thật nhiều \n trong túi \n Đến khi mắt kính rơi thấy tiền là ham :)",
       "CharacterIndex": 15
     },
     {
